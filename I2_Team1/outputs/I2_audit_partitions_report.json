@@ -1,0 +1,126 @@
+{
+  "eligible_records": 21375,
+  "n_train": 17100,
+  "n_val": 2137,
+  "n_test": 2138,
+  "permutation_engine": "numpy.random.default_rng (PCG64), permuting eligible ecg_id ascending",
+  "seeds": [
+    101,
+    102,
+    103,
+    104,
+    105
+  ],
+  "per_seed": [
+    {
+      "seed": 101,
+      "n_train": 17100,
+      "n_val": 2137,
+      "n_test": 2138,
+      "patients_train": 15235,
+      "patients_val": 2100,
+      "patients_test": 2105,
+      "patient_intersection_train_test": 388,
+      "patient_intersection_train_val": 398,
+      "patient_intersection_val_test": 89,
+      "test_records_whose_patient_is_in_train": 401,
+      "fraction_test_records_patient_in_train": 0.18756,
+      "per_class_test": {
+        "NORM": 985,
+        "MI": 524,
+        "STTC": 496,
+        "CD": 480,
+        "HYP": 235
+      }
+    },
+    {
+      "seed": 102,
+      "n_train": 17100,
+      "n_val": 2137,
+      "n_test": 2138,
+      "patients_train": 15208,
+      "patients_val": 2103,
+      "patients_test": 2114,
+      "patient_intersection_train_test": 367,
+      "patient_intersection_train_val": 415,
+      "patient_intersection_val_test": 64,
+      "test_records_whose_patient_is_in_train": 378,
+      "fraction_test_records_patient_in_train": 0.1768,
+      "per_class_test": {
+        "NORM": 949,
+        "MI": 558,
+        "STTC": 509,
+        "CD": 495,
+        "HYP": 262
+      }
+    },
+    {
+      "seed": 103,
+      "n_train": 17100,
+      "n_val": 2137,
+      "n_test": 2138,
+      "patients_train": 15246,
+      "patients_val": 2093,
+      "patients_test": 2099,
+      "patient_intersection_train_test": 406,
+      "patient_intersection_train_val": 392,
+      "patient_intersection_val_test": 58,
+      "test_records_whose_patient_is_in_train": 427,
+      "fraction_test_records_patient_in_train": 0.19972,
+      "per_class_test": {
+        "NORM": 943,
+        "MI": 564,
+        "STTC": 503,
+        "CD": 499,
+        "HYP": 257
+      }
+    },
+    {
+      "seed": 104,
+      "n_train": 17100,
+      "n_val": 2137,
+      "n_test": 2138,
+      "patients_train": 15253,
+      "patients_val": 2093,
+      "patients_test": 2103,
+      "patient_intersection_train_test": 398,
+      "patient_intersection_train_val": 415,
+      "patient_intersection_val_test": 70,
+      "test_records_whose_patient_is_in_train": 419,
+      "fraction_test_records_patient_in_train": 0.19598,
+      "per_class_test": {
+        "NORM": 952,
+        "MI": 556,
+        "STTC": 506,
+        "CD": 488,
+        "HYP": 290
+      }
+    },
+    {
+      "seed": 105,
+      "n_train": 17100,
+      "n_val": 2137,
+      "n_test": 2138,
+      "patients_train": 15259,
+      "patients_val": 2092,
+      "patients_test": 2095,
+      "patient_intersection_train_test": 408,
+      "patient_intersection_train_val": 389,
+      "patient_intersection_val_test": 87,
+      "test_records_whose_patient_is_in_train": 431,
+      "fraction_test_records_patient_in_train": 0.20159,
+      "per_class_test": {
+        "NORM": 951,
+        "MI": 527,
+        "STTC": 512,
+        "CD": 481,
+        "HYP": 257
+      }
+    }
+  ],
+  "mean_fraction_test_patient_in_train": 0.19233,
+  "range_fraction_test_patient_in_train": [
+    0.1768,
+    0.20159
+  ]
+}

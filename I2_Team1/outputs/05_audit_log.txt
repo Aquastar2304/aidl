@@ -1,0 +1,10 @@
+eligible records 21375  ->  audit train 17100 / val 2137 / test 2138
+seed 101  train/val/test 17100/2137/2138   patients(tr^te)=388   test records with a training patient: 401 (18.76%)
+seed 102  train/val/test 17100/2137/2138   patients(tr^te)=367   test records with a training patient: 378 (17.68%)
+seed 103  train/val/test 17100/2137/2138   patients(tr^te)=406   test records with a training patient: 427 (19.97%)
+seed 104  train/val/test 17100/2137/2138   patients(tr^te)=398   test records with a training patient: 419 (19.60%)
+seed 105  train/val/test 17100/2137/2138   patients(tr^te)=408   test records with a training patient: 431 (20.16%)
+
+mean fraction of audit-test records whose patient is also in audit-train: 0.1923
+range: [0.1768, 0.20159]
+official folds, for contrast: 0 patients shared between any two folds

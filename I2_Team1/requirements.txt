@@ -1,0 +1,9 @@
+# 22AIE304 Card I2 (Team 1) - pinned environment
+# Python 3.13.7, Windows 11 (10.0.26200), CPU only
+numpy==2.5.1
+pandas==3.0.3
+scipy==1.18.0
+scikit-learn==1.9.0
+torch==2.13.0+cpu
+wfdb==4.3.1
+psutil==7.2.2

@@ -1,0 +1,84 @@
+{
+  "records in ptbxl_database.csv": 21799,
+  "distinct patient_id": 18869,
+  "SCP statements in scp_statements.csv": 71,
+  "statements with diagnostic==1": 44,
+  "distinct strat_fold values": 10,
+  "sampling_frequency column present": false,
+  "distinct diagnostic_class values": [
+    "CD",
+    "HYP",
+    "MI",
+    "NORM",
+    "STTC"
+  ],
+  "diagnostic statements with NaN diagnostic_class": 0,
+  "eligible records (>=1 retained superclass)": 21375,
+  "dropped: no retained superclass": 424,
+  "dropped ONLY because likelihood==0": 13,
+  "mapped diagnostic codes discarded at likelihood 0": 213,
+  "eligible in folds 1-8 (train)": 17073,
+  "eligible in fold 9 (validation)": 2145,
+  "eligible in fold 10 (test)": 2157,
+  "eligible_per_fold": {
+    "1": 2138,
+    "2": 2136,
+    "3": 2149,
+    "4": 2126,
+    "5": 2133,
+    "6": 2128,
+    "7": 2134,
+    "8": 2129,
+    "9": 2145,
+    "10": 2157
+  },
+  "patients appearing in >1 fold": 0,
+  "patients (all records)": 18869,
+  "patients with >=1 eligible record": 18610,
+  "patients holding >1 eligible record": 2027,
+  "eligible records held by those patients": 4792,
+  "support": {
+    "train(folds 1-8)": {
+      "records": 17073,
+      "patients": 14818,
+      "per_class": {
+        "NORM": 7596,
+        "MI": 4379,
+        "STTC": 4087,
+        "CD": 3907,
+        "HYP": 2119
+      },
+      "labels_per_record_mean": 1.2937,
+      "multi_label_records": 4069
+    },
+    "val(fold 9)": {
+      "records": 2145,
+      "patients": 1916,
+      "per_class": {
+        "NORM": 955,
+        "MI": 540,
+        "STTC": 515,
+        "CD": 495,
+        "HYP": 268
+      },
+      "labels_per_record_mean": 1.2928,
+      "multi_label_records": 502
+    },
+    "test(fold 10)": {
+      "records": 2157,
+      "patients": 1876,
+      "per_class": {
+        "NORM": 963,
+        "MI": 550,
+        "STTC": 506,
+        "CD": 496,
+        "HYP": 262
+      },
+      "labels_per_record_mean": 1.2874,
+      "multi_label_records": 497
+    }
+  },
+  "filename_lr column present": true,
+  "distinct filename_lr": 21799,
+  "records with no filename_lr": 0
+}

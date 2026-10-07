@@ -1,0 +1,15 @@
+{
+  "records_with_constant_lead": 1,
+  "records_entirely_constant": 0,
+  "constant_lead_examples": [
+    [
+      12722,
+      1
+    ]
+  ],
+  "amp_median_mV": 1.835,
+  "amp_p99_mV": 5.279,
+  "amp_max_mV": 20.032,
+  "records_over_10mV": 23,
+  "records_over_5mV": 281
+}

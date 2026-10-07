@@ -1,0 +1,11 @@
+python==3.13.7
+platform: Windows 11
+numpy==2.5.1
+pandas==3.0.3
+scipy==1.18.0
+sklearn==1.9.0
+torch==2.13.0+cpu
+wfdb==4.3.1
+psutil==7.2.2
+torch threads default: 6
+torch build: CPU only = True

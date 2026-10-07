@@ -1,0 +1,6 @@
+records with >=1 constant lead : 1
+records entirely constant      : 0
+examples (ecg_id, n_flat_leads): [(12722, 1)]
+amplitude mV: median 1.84  p99 5.28  max 20.03
+records with max|amp| > 10 mV  : 23
+records with max|amp| > 5 mV   : 281

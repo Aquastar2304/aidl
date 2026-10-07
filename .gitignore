@@ -1,0 +1,16 @@
+# Raw and derived dataset — NOT redistributed from here.
+# Reproduce with I2_Team1/scripts/01_download_records100.py
+I2_data/
+*.npy
+!Release_Bundle_RevD1/I1/*.npy
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store

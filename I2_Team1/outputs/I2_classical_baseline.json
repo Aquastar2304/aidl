@@ -1,0 +1,164 @@
+{
+  "card": "I2",
+  "team": 1,
+  "baseline": "one-vs-rest L2-regularised logistic regression (Annex D6)",
+  "features_per_lead": [
+    "mean",
+    "std",
+    "min",
+    "max",
+    "q25",
+    "q50",
+    "q75",
+    "rms",
+    "ptp",
+    "diff_rms"
+  ],
+  "n_features": 120,
+  "rr_or_hrv_features_used": false,
+  "scaling": "training-partition mean/std only",
+  "C_grid": [
+    0.1,
+    1.0,
+    10.0
+  ],
+  "C_selected_on_validation": 10.0,
+  "C_selection_detail": [
+    {
+      "C": 0.1,
+      "val_macro_f1_at_0.5": 0.54319
+    },
+    {
+      "C": 1.0,
+      "val_macro_f1_at_0.5": 0.54399
+    },
+    {
+      "C": 10.0,
+      "val_macro_f1_at_0.5": 0.5445
+    }
+  ],
+  "threshold_grid": [
+    0.1,
+    0.2,
+    0.3,
+    0.4,
+    0.5,
+    0.6,
+    0.7,
+    0.8,
+    0.9
+  ],
+  "thresholds_selected_on_validation": {
+    "NORM": 0.4,
+    "MI": 0.3,
+    "STTC": 0.3,
+    "CD": 0.3,
+    "HYP": 0.2
+  },
+  "seed": 22,
+  "feature_extraction_seconds": 13.9,
+  "model_fitting_seconds": 11.4,
+  "validation": {
+    "n": 2145,
+    "macro_f1_fixed_universe": 0.63111,
+    "macro_auc": 0.83286,
+    "macro_auc_NA_reason": null,
+    "supported_classes": 5,
+    "unsupported_classes": [],
+    "balanced_accuracy_over_supported": 0.68911,
+    "per_class": {
+      "NORM": {
+        "support_positive": 955,
+        "f1": 0.77681,
+        "sensitivity": 0.88377,
+        "specificity": 0.68571,
+        "auc": 0.85756,
+        "supported": true
+      },
+      "MI": {
+        "support_positive": 540,
+        "f1": 0.5726,
+        "sensitivity": 0.6463,
+        "specificity": 0.79439,
+        "auc": 0.79458,
+        "supported": true
+      },
+      "STTC": {
+        "support_positive": 515,
+        "f1": 0.5953,
+        "sensitivity": 0.66408,
+        "specificity": 0.82086,
+        "auc": 0.8157,
+        "supported": true
+      },
+      "CD": {
+        "support_positive": 495,
+        "f1": 0.63795,
+        "sensitivity": 0.62828,
+        "specificity": 0.89758,
+        "auc": 0.83403,
+        "supported": true
+      },
+      "HYP": {
+        "support_positive": 268,
+        "f1": 0.5729,
+        "sensitivity": 0.62313,
+        "specificity": 0.92115,
+        "auc": 0.86245,
+        "supported": true
+      }
+    }
+  },
+  "test_fold10_headline": {
+    "n": 2157,
+    "macro_f1_fixed_universe": 0.61976,
+    "macro_auc": 0.82711,
+    "macro_auc_NA_reason": null,
+    "supported_classes": 5,
+    "unsupported_classes": [],
+    "balanced_accuracy_over_supported": 0.68363,
+    "per_class": {
+      "NORM": {
+        "support_positive": 963,
+        "f1": 0.759,
+        "sensitivity": 0.86501,
+        "specificity": 0.66583,
+        "auc": 0.84797,
+        "supported": true
+      },
+      "MI": {
+        "support_positive": 550,
+        "f1": 0.57835,
+        "sensitivity": 0.65091,
+        "specificity": 0.79465,
+        "auc": 0.79037,
+        "supported": true
+      },
+      "STTC": {
+        "support_positive": 506,
+        "f1": 0.58036,
+        "sensitivity": 0.64229,
+        "specificity": 0.82495,
+        "auc": 0.82956,
+        "supported": true
+      },
+      "CD": {
+        "support_positive": 496,
+        "f1": 0.62055,
+        "sensitivity": 0.61492,
+        "specificity": 0.89043,
+        "auc": 0.81485,
+        "supported": true
+      },
+      "HYP": {
+        "support_positive": 262,
+        "f1": 0.56053,
+        "sensitivity": 0.64504,
+        "specificity": 0.90923,
+        "auc": 0.85278,
+        "supported": true
+      }
+    }
+  },
+  "note": "All model and threshold choices were frozen on fold 9 before fold 10 was scored once. Not clinically validated; research exercise only."
+}

@@ -1,0 +1,9 @@
+C:\Users\sohan\OneDrive\Documents\Likitha\I2_Team1\scripts\07_2d_throughput_probe.py:60: UserWarning: The given NumPy array is not writable, and PyTorch does not support non-writable tensors. This means writing to this tensor will result in undefined behavior. You may want to copy the array to protect its data or make it writable before converting it to a tensor. This type of warning will be suppressed for the rest of this program. (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\torch\csrc\utils\tensor_numpy.cpp:219.)
+  probe = torch.from_numpy(np.ascontiguousarray(sig[:1000]))
+spectrogram tensor per batch of 1000: (1000, 12, 33, 63)
+STFT cost: 0.38s per 1000 records
+2-D CNN trainable params : 78053 (cap 250000)
+timed 20 updates in 6.02s -> 0.301 s/update
+projected epoch (134 updates) : 40 s
+projected 30 epochs          : 1210 s (20.2 min)
+-> 30 epochs fit inside the 30-minute cap

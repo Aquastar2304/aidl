@@ -1,0 +1,46 @@
+=== 1. Raw collection counts ===
+records in ptbxl_database.csv                        21799  [manifest/annex: 21799] MATCH
+distinct patient_id                                  18869  [manifest/annex: 18869] MATCH
+SCP statements in scp_statements.csv                 71  [manifest/annex: 71] MATCH
+statements with diagnostic==1                        44
+distinct strat_fold values                           10  [manifest/annex: 10] MATCH
+sampling_frequency column present                    False
+distinct diagnostic_class values                     ['CD', 'HYP', 'MI', 'NORM', 'STTC']
+diagnostic statements with NaN diagnostic_class      0
+    diagnostic statements per superclass: {'CD': 11, 'HYP': 5, 'MI': 14, 'NORM': 1, 'STTC': 13}
+    statements with diagnostic==1: 44
+    statements with form==1: 19
+    statements with rhythm==1: 12
+
+=== 2. Annex D6 label construction ===
+eligible records (>=1 retained superclass)           21375  [manifest/annex: 21375] MATCH
+dropped: no retained superclass                      424  [manifest/annex: 424] MATCH
+dropped ONLY because likelihood==0                   13  [manifest/annex: 13] MATCH
+mapped diagnostic codes discarded at likelihood 0    213
+
+=== 3. Counts by official fold (D6 / manifest) ===
+eligible in folds 1-8 (train)                        17073  [manifest/annex: 17073] MATCH
+eligible in fold 9 (validation)                      2145  [manifest/annex: 2145] MATCH
+eligible in fold 10 (test)                           2157  [manifest/annex: 2157] MATCH
+    eligible per fold: {1: 2138, 2: 2136, 3: 2149, 4: 2126, 5: 2133, 6: 2128, 7: 2134, 8: 2129, 9: 2145, 10: 2157}
+
+=== 4. Patient-disjointness of the official folds ===
+patients appearing in >1 fold                        0  [manifest/annex: 0] MATCH
+patients (all records)                               18869  [manifest/annex: 18869] MATCH
+patients with >=1 eligible record                    18610
+
+=== 5. Patient-overlap potential for the core-experiment-2 audit ===
+patients holding >1 eligible record                  2027  [manifest/annex: 2027] MATCH
+eligible records held by those patients              4792  [manifest/annex: 4792] MATCH
+
+=== 6. Multi-label support, per partition ===
+  train(folds 1-8)   n= 17073  patients= 14818  {'NORM': 7596, 'MI': 4379, 'STTC': 4087, 'CD': 3907, 'HYP': 2119}  multi-label=4069
+  val(fold 9)        n=  2145  patients=  1916  {'NORM': 955, 'MI': 540, 'STTC': 515, 'CD': 495, 'HYP': 268}  multi-label=502
+  test(fold 10)      n=  2157  patients=  1876  {'NORM': 963, 'MI': 550, 'STTC': 506, 'CD': 496, 'HYP': 262}  multi-label=497
+
+=== 7. Signal-file bookkeeping ===
+filename_lr column present                           True
+distinct filename_lr                                 21799
+records with no filename_lr                          0  [manifest/annex: 0] MATCH
+
+wrote: C:\Users\sohan\OneDrive\Documents\Likitha\I2_Team1\outputs

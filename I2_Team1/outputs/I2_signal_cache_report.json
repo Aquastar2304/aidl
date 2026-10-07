@@ -1,0 +1,30 @@
+{
+  "records": 21375,
+  "parse_seconds": 353.0,
+  "shapes": {
+    "(1000, 12)": 21375
+  },
+  "sampling_rates": {
+    "100": 21375
+  },
+  "distinct_lead_orders": 1,
+  "lead_order": [
+    "I",
+    "II",
+    "III",
+    "AVR",
+    "AVL",
+    "AVF",
+    "V1",
+    "V2",
+    "V3",
+    "V4",
+    "V5",
+    "V6"
+  ],
+  "lead_order_matches_standard_12": true,
+  "nan_records": [],
+  "unexpected_shape": [],
+  "cache_bytes": 1026000128,
+  "flat_lead_records_in_sample": 1
+}

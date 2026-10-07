@@ -1,0 +1,19 @@
+eligible records to parse: 21375
+  4000/21375  67s
+  8000/21375  135s
+  12000/21375  201s
+  16000/21375  267s
+  20000/21375  331s
+
+parsed 21375 records in 353.0s
+distinct (samples, leads) shapes : {(1000, 12): 21375}
+distinct sampling rates          : {100: 21375}
+distinct lead orders             : 1 -> ('I', 'II', 'III', 'AVR', 'AVL', 'AVF', 'V1', 'V2', 'V3', 'V4', 'V5', 'V6')
+lead order matches expectation   : True
+distinct unit strings            : {('mV', 'mV', 'mV', 'mV', 'mV', 'mV', 'mV', 'mV', 'mV', 'mV', 'mV', 'mV'): 21375}
+records containing NaN/inf       : 0 []
+records with unexpected shape    : 0 []
+cache bytes                      : 1026000128
+max |amplitude| (mV) over a 2k sample: min 0.430  median 1.844  max 20.032
+records with at least one constant (flat) lead, in that 2k sample: 1
+ok

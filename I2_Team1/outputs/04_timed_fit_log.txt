@@ -1,0 +1,22 @@
+trainable params 153797  (total 153797; D0 cap 250000)
+train 17073  val 2145  test-shaped 2157
+threads=6 dataloader_workers=0 batch=128 seed=22
+preprocessing (outside the fit clock): 3.3s
+
+epoch  1  train 0.34258  val 0.31117  54s  cum 54s  rss 2511MB
+epoch  2  train 0.28607  val 0.30017  54s  cum 108s  rss 2529MB
+epoch  3  train 0.27126  val 0.28189  54s  cum 162s  rss 2518MB
+epoch  4  train 0.26217  val 0.28179  54s  cum 215s  rss 2398MB
+epoch  5  train 0.25199  val 0.28379  55s  cum 271s  rss 2525MB
+epoch  6  train 0.24906  val 0.29643  56s  cum 327s  rss 2512MB
+epoch  7  train 0.24337  val 0.31602  56s  cum 383s  rss 2525MB
+epoch  8  train 0.23947  val 0.29352  54s  cum 437s  rss 2397MB
+epoch  9  train 0.23273  val 0.29601  55s  cum 492s  rss 2509MB
+
+stopped by          : early stopping (5 validation checks without improvement)
+epochs completed    : 9   updates: 1206
+fit elapsed         : 492.4s   fit CPU: 2916.7s (ratio 5.92x)
+peak RSS            : 2529 MB
+train loss          : 0.34258 -> 0.23273
+val   loss          : 0.31117 -> 0.29601 (best 0.28179 @ epoch 4)
+unscored inference  : 2.10s elapsed, 12.48s CPU, 2157 rows, all finite=True, NO metric computed

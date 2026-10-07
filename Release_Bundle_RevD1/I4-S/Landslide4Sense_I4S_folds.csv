@@ -1,0 +1,5 @@
+fold,test_set,transfer_train_groups,transfer_val_group,n_test,n_test_pos,n_test_neg
+F1-S1,S1 guarded test block,S2+S4,S3,570,210,360
+F2-S2,all of S2,S1+S4,S3,150,126,24
+F3-S3,all of S3,S1+S2,S4,121,69,52
+F4-S4,all of S4,S1+S3,S2,494,102,392

@@ -1,0 +1,6 @@
+scene_group,n_patches,n_positive_patches,n_negative_patches,total_landslide_pixels,min_patch_id,max_patch_id,vertical_raster_stride,fold_eligible
+S1,3033,1934,1099,1269296,1,3033,41,1
+S2,150,126,24,108533,3035,3184,15,1
+S3,121,69,52,16108,3185,3305,11,1
+S4,494,102,392,48853,3306,3799,26,1
+UNASSIGNED,1,0,1,0,3034,3034,,0

@@ -1,0 +1,39 @@
+plantdoc_class,plantvillage_class,plantdoc_test_images,status
+Apple Scab Leaf,Apple___Apple_scab,10,evaluable
+Apple leaf,Apple___healthy,9,evaluable
+Apple rust leaf,Apple___Cedar_apple_rust,10,evaluable
+Bell_pepper leaf,"Pepper,_bell___healthy",8,evaluable
+Bell_pepper leaf spot,"Pepper,_bell___Bacterial_spot",9,evaluable
+Blueberry leaf,Blueberry___healthy,11,evaluable
+Cherry leaf,Cherry_(including_sour)___healthy,10,evaluable
+Corn Gray leaf spot,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,4,evaluable
+Corn leaf blight,Corn_(maize)___Northern_Leaf_Blight,12,evaluable
+Corn rust leaf,Corn_(maize)___Common_rust_,10,evaluable
+Peach leaf,Peach___healthy,9,evaluable
+Potato leaf early blight,Potato___Early_blight,8,evaluable
+Potato leaf late blight,Potato___Late_blight,8,evaluable
+Raspberry leaf,Raspberry___healthy,7,evaluable
+Soyabean leaf,Soybean___healthy,8,evaluable
+Squash Powdery mildew leaf,Squash___Powdery_mildew,6,evaluable
+Strawberry leaf,Strawberry___healthy,8,evaluable
+Tomato Early blight leaf,Tomato___Early_blight,9,evaluable
+Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,11,evaluable
+Tomato leaf,Tomato___healthy,8,evaluable
+Tomato leaf bacterial spot,Tomato___Bacterial_spot,9,evaluable
+Tomato leaf late blight,Tomato___Late_blight,10,evaluable
+Tomato leaf mosaic virus,Tomato___Tomato_mosaic_virus,10,evaluable
+Tomato leaf yellow virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,6,evaluable
+Tomato mold leaf,Tomato___Leaf_Mold,6,evaluable
+grape leaf,Grape___healthy,12,evaluable
+grape leaf black rot,Grape___Black_rot,8,evaluable
+Tomato two spotted spider mites leaf,Tomato___Spider_mites Two-spotted_spider_mite,0,unsupported (no test images)
+,Apple___Black_rot,,excluded (no PlantDoc class)
+,Cherry_(including_sour)___Powdery_mildew,,excluded (no PlantDoc class)
+,Corn_(maize)___healthy,,excluded (no PlantDoc class)
+,Grape___Esca_(Black_Measles),,excluded (no PlantDoc class)
+,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),,excluded (no PlantDoc class)
+,Orange___Haunglongbing_(Citrus_greening),,excluded (no PlantDoc class)
+,Peach___Bacterial_spot,,excluded (no PlantDoc class)
+,Potato___healthy,,excluded (no PlantDoc class)
+,Strawberry___Leaf_scorch,,excluded (no PlantDoc class)
+,Tomato___Target_Spot,,excluded (no PlantDoc class)

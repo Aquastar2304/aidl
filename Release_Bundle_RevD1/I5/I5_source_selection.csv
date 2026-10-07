@@ -1,0 +1,901 @@
+code,species,xc_id,part,hash_rank,length,quality,licence,recordist,country,date
+EATO,Pipilo erythrophthalmus,XC1133384,train,0,2:11,B,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Driver,United States,2026-05-14
+EATO,Pipilo erythrophthalmus,XC130575,train,1,0:23,B,creativecommons.org/licenses/by-nc-sa/3.0/,Mike Nelson,United States,2013-04-13
+EATO,Pipilo erythrophthalmus,XC54843,train,2,0:11,A,creativecommons.org/licenses/by-nc-nd/2.5/,Stuart Fisher,United States,2010-05-29
+EATO,Pipilo erythrophthalmus,XC625692,train,3,0:05,B,creativecommons.org/licenses/by-nc-sa/4.0/,Bill Grantham,United States,2017-12-30
+EATO,Pipilo erythrophthalmus,XC228170,train,4,0:11,B,creativecommons.org/licenses/by-nc-nd/4.0/,Peter Boesman,United States,1999-04-15
+EATO,Pipilo erythrophthalmus,XC556509,train,5,0:43,A,creativecommons.org/licenses/by-nc-sa/4.0/,Caio Brito,United States,2019-04-22
+EATO,Pipilo erythrophthalmus,XC466314,train,6,0:32,A,creativecommons.org/licenses/by-nc-sa/4.0/,Bobby Wilcox,United States,2019-03-29
+EATO,Pipilo erythrophthalmus,XC161101,train,7,0:20,A,creativecommons.org/licenses/by-nc-sa/3.0/,Paul Marvin,United States,2013-12-15
+EATO,Pipilo erythrophthalmus,XC692013,train,8,0:12,B,creativecommons.org/licenses/by-nc-sa/4.0/,Bill Grantham,United States,2021-10-23
+EATO,Pipilo erythrophthalmus,XC1015067,train,9,0:11,A,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-06-07
+EATO,Pipilo erythrophthalmus,XC316672,train,10,0:35,C,creativecommons.org/licenses/by-nc-sa/4.0/,Brian Henderson,United States,2016-05-14
+EATO,Pipilo erythrophthalmus,XC713488,train,11,1:46,A,creativecommons.org/licenses/by-nc-sa/4.0/,John A. Middleton Jr.,United States,2022-03-27
+EATO,Pipilo erythrophthalmus,XC556507,train,12,0:10,B,creativecommons.org/licenses/by-nc-sa/4.0/,Caio Brito,United States,2019-04-22
+EATO,Pipilo erythrophthalmus,XC1133852,train,13,0:35,A,creativecommons.org/licenses/by-nc-sa/4.0/,Rory Nefdt,United States,2026-04-27
+EATO,Pipilo erythrophthalmus,XC550429,train,14,2:39,A,creativecommons.org/licenses/by-nc-sa/4.0/,Martin St-Michel,Canada,2019-06-08
+EATO,Pipilo erythrophthalmus,XC601022,train,15,1:10,A,creativecommons.org/licenses/by-nc-sa/4.0/,Christopher McPherson,United States,2020-06-13
+EATO,Pipilo erythrophthalmus,XC294011,train,16,0:05,A,creativecommons.org/licenses/by-nc-sa/4.0/,Martin St-Michel,Canada,2015-07-05
+EATO,Pipilo erythrophthalmus,XC562222,train,17,0:35,A,creativecommons.org/licenses/by-nc-sa/4.0/,Brian Hendrix,United States,2020-05-25
+EATO,Pipilo erythrophthalmus,XC253638,train,18,0:21,C,creativecommons.org/licenses/by-nc-sa/4.0/,Laggard,United States,2015-06-21
+EATO,Pipilo erythrophthalmus,XC381739,train,19,1:12,B,creativecommons.org/licenses/by-nc-sa/4.0/,Nicholas Comparato,United States,2017-07-19
+EATO,Pipilo erythrophthalmus,XC375281,train,20,0:36,A,creativecommons.org/licenses/by-nc-sa/4.0/,Jorge de Leon Cardozo,United States,2017-05-20
+EATO,Pipilo erythrophthalmus,XC568798,train,21,0:23,A,creativecommons.org/licenses/by-nc-sa/4.0/,Brian Hendrix,United States,2020-06-15
+EATO,Pipilo erythrophthalmus,XC975901,train,22,0:09,C,creativecommons.org/licenses/by-nc-sa/4.0/,Daniel Parker,United States,2024-03-04
+EATO,Pipilo erythrophthalmus,XC924414,train,23,0:38,B,creativecommons.org/licenses/by-nc-sa/4.0/,Oscar Gordo,Canada,2024-06-28
+EATO,Pipilo erythrophthalmus,XC33778,train,24,0:50,A,creativecommons.org/licenses/by-nc-nd/2.5/,Andrew Spencer,United States,2009-04-26
+EATO,Pipilo erythrophthalmus,XC1015069,train,25,3:47,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-06-07
+EATO,Pipilo erythrophthalmus,XC466700,train,26,0:24,A,creativecommons.org/licenses/by-nc-sa/4.0/,Brian Hendrix,United States,2019-04-14
+EATO,Pipilo erythrophthalmus,XC548596,train,27,1:10,B,creativecommons.org/licenses/by-nc-sa/4.0/,Denise Wight,United States,2016-07-17
+EATO,Pipilo erythrophthalmus,XC725503,train,28,0:26,C,creativecommons.org/licenses/by-nc-sa/4.0/,Henro,Canada,2022-05-13
+EATO,Pipilo erythrophthalmus,XC785767,train,29,0:46,A,creativecommons.org/licenses/by-nc-sa/4.0/,Jim Berry,United States,2002-05-26
+EATO,Pipilo erythrophthalmus,XC327748,train,30,0:59,B,creativecommons.org/licenses/by-nc-sa/4.0/,Patrick Blake,United States,2016-07-19
+EATO,Pipilo erythrophthalmus,XC581059,train,31,0:32,B,creativecommons.org/licenses/by-nc-sa/4.0/,Bobby Wilcox,United States,2020-08-04
+EATO,Pipilo erythrophthalmus,XC53188,train,32,0:21,A,creativecommons.org/licenses/by-nc-sa/3.0/,Mike Nelson,United States,2010-05-26
+EATO,Pipilo erythrophthalmus,XC563216,train,33,0:35,B,creativecommons.org/licenses/by-nc-sa/4.0/,Roger Schroeder,United States,2008-05-29
+EATO,Pipilo erythrophthalmus,XC190528,train,34,1:30,A,creativecommons.org/licenses/by-nc-nd/4.0/,Krzysztof Deoniziak,United States,2014-08-03
+EATO,Pipilo erythrophthalmus,XC100483,train,35,0:29,C,creativecommons.org/licenses/by-nc-nd/2.5/,Larry Clarfeld,United States,2012-05-06
+EATO,Pipilo erythrophthalmus,XC33780,val,36,0:19,A,creativecommons.org/licenses/by-nc-nd/2.5/,Andrew Spencer,United States,2008-06-20
+EATO,Pipilo erythrophthalmus,XC1015075,val,37,0:11,A,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-06-07
+EATO,Pipilo erythrophthalmus,XC266304,val,38,0:31,B,creativecommons.org/licenses/by-nc-sa/4.0/,Brian Henderson,United States,2015-08-05
+EATO,Pipilo erythrophthalmus,XC389236,val,39,0:47,A,creativecommons.org/licenses/by-nc-sa/4.0/,Niels Krabbe,United States,2017-09-16
+EATO,Pipilo erythrophthalmus,XC862213,val,40,0:53,B,creativecommons.org/licenses/by-nc-sa/4.0/,Percy Ulsamer,United States,2023-07-03
+EATO,Pipilo erythrophthalmus,XC59100,val,41,0:10,A,creativecommons.org/licenses/by-nc-nd/2.5/,Tayler Brooks,United States,2010-05-02
+EATO,Pipilo erythrophthalmus,XC141030,val,42,1:34,B,creativecommons.org/licenses/by-nc-sa/3.0/,Bernard BOUSQUET,United States,2013-04-25
+EATO,Pipilo erythrophthalmus,XC638198,val,43,0:18,B,creativecommons.org/licenses/by-nc-sa/4.0/,Brian Hendrix,United States,2021-04-10
+EATO,Pipilo erythrophthalmus,XC464676,val,44,0:19,A,creativecommons.org/licenses/by-nc-sa/4.0/,Brian Hendrix,United States,2019-04-01
+EATO,Pipilo erythrophthalmus,XC97245,val,45,0:07,B,creativecommons.org/licenses/by-nc-nd/2.5/,Daniel Lane,United States,2008-01-05
+EATO,Pipilo erythrophthalmus,XC179558,val,46,1:51,A,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Driver,United States,2014-05-25
+EATO,Pipilo erythrophthalmus,XC691323,val,47,1:22,A,creativecommons.org/licenses/by-nc-sa/4.0/,Christopher McPherson,United States,2021-07-04
+EATO,Pipilo erythrophthalmus,XC486218,test,48,0:12,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stephen Chase,Canada,2019-07-07
+EATO,Pipilo erythrophthalmus,XC899107,test,49,2:21,A,creativecommons.org/licenses/by-nc-sa/4.0/,Valerie Heemstra,United States,2024-01-06
+EATO,Pipilo erythrophthalmus,XC476567,test,50,0:18,A,creativecommons.org/licenses/by-nc-sa/4.0/,David Darrell-Lambert,Canada,2019-05-16
+EATO,Pipilo erythrophthalmus,XC605344,test,51,0:33,B,creativecommons.org/licenses/by-nc-sa/4.0/,Brian Hendrix,United States,2020-11-26
+EATO,Pipilo erythrophthalmus,XC473222,test,52,0:42,B,creativecommons.org/licenses/by-nc-sa/4.0/,William Whitehead,United States,2019-05-10
+EATO,Pipilo erythrophthalmus,XC331565,test,53,2:26,B,creativecommons.org/licenses/by-nc-sa/4.0/,Martin St-Michel,Canada,2016-06-19
+EATO,Pipilo erythrophthalmus,XC307795,test,54,1:25,A,creativecommons.org/licenses/by-nc-sa/4.0/,J.R. Rigby,United States,2016-03-05
+EATO,Pipilo erythrophthalmus,XC724245,test,55,0:40,C,creativecommons.org/licenses/by-nc-sa/4.0/,Henro,Canada,2022-05-11
+EATO,Pipilo erythrophthalmus,XC348442,test,56,0:30,B,creativecommons.org/licenses/by-nc-sa/4.0/,Robert Emond,United States,2016-12-23
+EATO,Pipilo erythrophthalmus,XC420839,test,57,1:41,A,creativecommons.org/licenses/by-nc-sa/4.0/,Meena Haribal,United States,2018-06-17
+EATO,Pipilo erythrophthalmus,XC35999,test,58,0:15,B,creativecommons.org/licenses/by-nc-nd/2.5/,Stuart Fisher,United States,2009-06-04
+EATO,Pipilo erythrophthalmus,XC786139,test,59,1:12,A,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Driver,United States,2012-06-23
+WOTH,Hylocichla mustelina,XC220613,train,0,0:15,B,creativecommons.org/licenses/by-nc-nd/4.0/,Peter Boesman,United States,1999-04-23
+WOTH,Hylocichla mustelina,XC177881,train,1,3:42,B,creativecommons.org/licenses/by-nc-sa/4.0/,Daniel Parker,United States,2014-05-10
+WOTH,Hylocichla mustelina,XC902322,train,2,1:00,B,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Driver,United States,2024-05-09
+WOTH,Hylocichla mustelina,XC274406,train,3,0:16,A,creativecommons.org/licenses/by-nc-nd/4.0/,Peter Boesman,Costa Rica,2010-03-13
+WOTH,Hylocichla mustelina,XC856531,train,4,0:44,B,creativecommons.org/licenses/by-nc-sa/4.0/,Michael Hurben,United States,2023-05-21
+WOTH,Hylocichla mustelina,XC667192,train,5,3:07,B,creativecommons.org/licenses/by-nc-sa/4.0/,Bobby Wilcox,United States,2021-07-30
+WOTH,Hylocichla mustelina,XC202221,train,6,0:42,A,creativecommons.org/licenses/by-nc-sa/4.0/,Albert & Max Lastukhin,United States,2013-06-30
+WOTH,Hylocichla mustelina,XC615733,train,7,1:12,B,creativecommons.org/licenses/by-nc-sa/4.0/,Manuel Grosselet,Mexico,2021-01-17
+WOTH,Hylocichla mustelina,XC414140,train,8,0:15,C,creativecommons.org/licenses/by-nc-sa/4.0/,Brian Rusnica,United States,2018-05-07
+WOTH,Hylocichla mustelina,XC138585,train,9,0:26,B,creativecommons.org/licenses/by-nc-sa/3.0/,Kim Allen,United States,2013-06-16
+WOTH,Hylocichla mustelina,XC103365,train,10,0:38,A,creativecommons.org/licenses/by-nc-nd/2.5/,Mike Nelson,United States,2012-06-03
+WOTH,Hylocichla mustelina,XC70688,train,11,0:35,B,creativecommons.org/licenses/by-nc-sa/3.0/,Mike Nelson,United States,2008-05-17
+WOTH,Hylocichla mustelina,XC200510,train,12,0:17,B,creativecommons.org/licenses/by-nc-sa/4.0/,Carlos Alexander Alberto,Honduras,2014-10-26
+WOTH,Hylocichla mustelina,XC1070717,train,13,0:05,C,creativecommons.org/licenses/by-nc-sa/4.0/,Homero Bennet,Mexico,2026-01-01
+WOTH,Hylocichla mustelina,XC497571,train,14,0:57,A,creativecommons.org/licenses/by-nc-sa/4.0/,Steve Hampton,Mexico,2019-02-10
+WOTH,Hylocichla mustelina,XC827229,train,15,1:27,B,creativecommons.org/licenses/by-nc-sa/4.0/,Richard E. Webster,United States,2023-05-16
+WOTH,Hylocichla mustelina,XC20807,train,16,0:58,A,creativecommons.org/licenses/by-nc-nd/2.5/,Chris Parrish,United States,2008-05-22
+WOTH,Hylocichla mustelina,XC416793,train,17,0:30,B,creativecommons.org/licenses/by-nc-sa/4.0/,Brian Rusnica,United States,2018-05-23
+WOTH,Hylocichla mustelina,XC316440,train,18,3:59,A,creativecommons.org/licenses/by-nc-sa/4.0/,J.R. Rigby,United States,2016-05-14
+WOTH,Hylocichla mustelina,XC170158,train,19,0:21,C,creativecommons.org/licenses/by-nc-sa/3.0/,Oliver Komar,Honduras,2014-03-14
+WOTH,Hylocichla mustelina,XC320682,train,20,0:48,C,creativecommons.org/licenses/by-nc-sa/4.0/,rob.oconnell,United States,2016-06-07
+WOTH,Hylocichla mustelina,XC202296,train,21,0:22,A,creativecommons.org/licenses/by-nc-sa/4.0/,Albert & Max Lastukhin,United States,2013-07-08
+WOTH,Hylocichla mustelina,XC79636,train,22,0:41,B,creativecommons.org/licenses/by-nc-nd/2.5/,Mike Nelson,United States,2011-06-01
+WOTH,Hylocichla mustelina,XC773624,train,23,0:08,C,creativecommons.org/licenses/by-nc-sa/4.0/,Jessica Thompson Ambriz,Mexico,2023-01-04
+WOTH,Hylocichla mustelina,XC811951,train,24,0:06,A,creativecommons.org/licenses/by-nc-sa/4.0/,Jeff Stewart,Canada,2022-07-09
+WOTH,Hylocichla mustelina,XC316110,train,25,0:58,A,creativecommons.org/licenses/by-nc-sa/4.0/,Hal Mitchell,United States,2016-05-08
+WOTH,Hylocichla mustelina,XC390597,train,26,0:22,B,creativecommons.org/licenses/by-nc-sa/4.0/,Martin St-Michel,Canada,2017-05-27
+WOTH,Hylocichla mustelina,XC248134,train,27,0:19,C,creativecommons.org/licenses/by-nc-sa/4.0/,Bill Maley,United States,2015-06-06
+WOTH,Hylocichla mustelina,XC497716,train,28,0:29,B,creativecommons.org/licenses/by-nc-sa/4.0/,Steve Hampton,United States,2019-09-17
+WOTH,Hylocichla mustelina,XC45124,train,29,0:21,A,creativecommons.org/licenses/by-nc-nd/2.5/,Carlos Funes,El Salvador,2010-02-19
+WOTH,Hylocichla mustelina,XC1137114,train,30,1:18,A,creativecommons.org/licenses/by-nc-sa/4.0/,Daniel Parker,United States,2026-05-18
+WOTH,Hylocichla mustelina,XC139092,train,31,1:52,A,creativecommons.org/licenses/by-nc-sa/3.0/,Paul Driver,United States,2013-05-18
+WOTH,Hylocichla mustelina,XC555446,train,32,1:07,A,creativecommons.org/licenses/by-nc-sa/4.0/,William Whitehead,United States,2020-05-08
+WOTH,Hylocichla mustelina,XC481296,train,33,1:59,A,creativecommons.org/licenses/by-nc-sa/4.0/,William Whitehead,United States,2019-06-14
+WOTH,Hylocichla mustelina,XC335344,train,34,1:05,C,creativecommons.org/licenses/by-nc-sa/4.0/,Daniel Parker,United States,2016-09-18
+WOTH,Hylocichla mustelina,XC202220,train,35,0:31,A,creativecommons.org/licenses/by-nc-sa/4.0/,Albert & Max Lastukhin,United States,2013-06-30
+WOTH,Hylocichla mustelina,XC477054,val,36,0:14,A,creativecommons.org/licenses/by-nc-sa/4.0/,David Darrell-Lambert,Canada,2019-05-19
+WOTH,Hylocichla mustelina,XC579069,val,37,0:35,B,creativecommons.org/licenses/by-nc-sa/4.0/,Bobby Wilcox,United States,2020-07-24
+WOTH,Hylocichla mustelina,XC141205,val,38,0:56,B,creativecommons.org/licenses/by-nc-sa/3.0/,Albert & Max Lastukhin,United States,2013-06-30
+WOTH,Hylocichla mustelina,XC565118,val,39,0:59,A,creativecommons.org/licenses/by-nc-sa/4.0/,William Whitehead,United States,2020-06-04
+WOTH,Hylocichla mustelina,XC483406,val,40,0:22,C,creativecommons.org/licenses/by-nc-sa/4.0/,Jon Billingsley Jr,United States,2019-06-26
+WOTH,Hylocichla mustelina,XC103362,val,41,0:25,A,creativecommons.org/licenses/by-nc-nd/2.5/,Mike Nelson,United States,2012-06-03
+WOTH,Hylocichla mustelina,XC331041,val,42,0:32,A,creativecommons.org/licenses/by-nc-sa/4.0/,Jake Turin,United States,2015-06-26
+WOTH,Hylocichla mustelina,XC561994,val,43,12:17,A,creativecommons.org/licenses/by-nc-sa/4.0/,Matt Wistrand,United States,2020-05-24
+WOTH,Hylocichla mustelina,XC774191,val,44,0:26,C,creativecommons.org/licenses/by-nc-sa/4.0/,Thomas Magarian,United States,2021-07-31
+WOTH,Hylocichla mustelina,XC739057,val,45,0:43,A,creativecommons.org/licenses/by-nc-sa/4.0/,Bobby Wilcox,United States,2022-07-25
+WOTH,Hylocichla mustelina,XC220612,val,46,0:14,B,creativecommons.org/licenses/by-nc-nd/4.0/,Peter Boesman,United States,1999-04-15
+WOTH,Hylocichla mustelina,XC215845,val,47,0:08,B,creativecommons.org/licenses/by-nc-sa/4.0/,Mayron McKewy Mejía,Honduras,2015-03-07
+WOTH,Hylocichla mustelina,XC139064,test,48,0:58,B,creativecommons.org/licenses/by-nc-sa/3.0/,Mike Nelson,United States,2013-06-16
+WOTH,Hylocichla mustelina,XC1069982,test,49,1:18,A,creativecommons.org/licenses/by-nc-sa/4.0/,Max Noack,Guatemala,2026-01-01
+WOTH,Hylocichla mustelina,XC139062,test,50,0:51,B,creativecommons.org/licenses/by-nc-sa/3.0/,Mike Nelson,United States,2013-06-16
+WOTH,Hylocichla mustelina,XC83529,test,51,0:13,B,creativecommons.org/licenses/by-nc-nd/2.5/,Jelmer Poelstra,United States,2008-05-10
+WOTH,Hylocichla mustelina,XC293618,test,52,1:37,A,creativecommons.org/licenses/by-nc-sa/4.0/,Martin St-Michel,Canada,2015-07-04
+WOTH,Hylocichla mustelina,XC178134,test,53,2:44,A,creativecommons.org/licenses/by-sa/4.0/,Jonathon Jongsma,United States,2014-05-11
+WOTH,Hylocichla mustelina,XC807556,test,54,0:33,A,creativecommons.org/licenses/by-nc-sa/4.0/,David A. Brinkman,United States,2023-05-10
+WOTH,Hylocichla mustelina,XC370947,test,55,6:01,A,creativecommons.org/licenses/by-nc-sa/4.0/,Eric DeFonso,United States,2017-05-13
+WOTH,Hylocichla mustelina,XC251803,test,56,0:38,C,creativecommons.org/licenses/by-nc-sa/4.0/,Nancy Hetrick,United States,2015-06-07
+WOTH,Hylocichla mustelina,XC1018228,test,57,0:53,A,creativecommons.org/licenses/by-nc-sa/4.0/,David Liebl,United States,2025-05-02
+WOTH,Hylocichla mustelina,XC289037,test,58,0:20,B,creativecommons.org/licenses/by-nc-sa/4.0/,Manuel Grosselet,Mexico,2015-11-04
+WOTH,Hylocichla mustelina,XC252867,test,59,0:24,B,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Driver,United States,2010-07-05
+BTNW,Setophaga virens,XC316102,train,0,1:25,C,creativecommons.org/licenses/by-nc-sa/4.0/,Hal Mitchell,United States,2016-05-05
+BTNW,Setophaga virens,XC1014732,train,1,0:42,A,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-06-04
+BTNW,Setophaga virens,XC1022907,train,2,0:33,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-28
+BTNW,Setophaga virens,XC187635,train,3,0:06,A,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Driver,United States,2014-07-12
+BTNW,Setophaga virens,XC1012693,train,4,0:19,A,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-19
+BTNW,Setophaga virens,XC1013758,train,5,0:08,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-26
+BTNW,Setophaga virens,XC371048,train,6,1:27,A,creativecommons.org/licenses/by-nc-sa/4.0/,Matt Wistrand,United States,2017-05-20
+BTNW,Setophaga virens,XC1021894,train,7,0:16,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-26
+BTNW,Setophaga virens,XC816760,train,8,0:25,C,creativecommons.org/licenses/by-nc-sa/4.0/,Denis Provencher,Canada,2023-07-15
+BTNW,Setophaga virens,XC409610,train,9,0:08,C,creativecommons.org/licenses/by-nc-sa/4.0/,Bates Estabrooks,United States,2018-04-06
+BTNW,Setophaga virens,XC1013765,train,10,0:44,A,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-26
+BTNW,Setophaga virens,XC1022896,train,11,0:09,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-28
+BTNW,Setophaga virens,XC187634,train,12,1:43,A,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Driver,United States,2014-07-12
+BTNW,Setophaga virens,XC1014096,train,13,0:09,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-28
+BTNW,Setophaga virens,XC696353,train,14,0:22,B,creativecommons.org/licenses/by-nc-sa/4.0/,Jonas Nilsson,Ecuador,2022-01-08
+BTNW,Setophaga virens,XC185115,train,15,1:13,A,creativecommons.org/licenses/by-nc-sa/4.0/,Martin St-Michel,Canada,2014-06-08
+BTNW,Setophaga virens,XC1021895,train,16,0:41,C,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-27
+BTNW,Setophaga virens,XC1012585,train,17,1:13,A,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-18
+BTNW,Setophaga virens,XC1012583,train,18,0:49,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-18
+BTNW,Setophaga virens,XC260208,train,19,0:25,B,creativecommons.org/licenses/by-nc-sa/4.0/,Iain,Canada,2015-07-15
+BTNW,Setophaga virens,XC315704,train,20,0:58,B,creativecommons.org/licenses/by-nc-sa/4.0/,Matt Wistrand,United States,2016-05-07
+BTNW,Setophaga virens,XC1022887,train,21,0:09,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-27
+BTNW,Setophaga virens,XC839826,train,22,0:58,A,creativecommons.org/licenses/by-nc-nd/4.0/,Manuel Oudard,Canada,2023-05-28
+BTNW,Setophaga virens,XC1013094,train,23,0:33,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-22
+BTNW,Setophaga virens,XC1014728,train,24,0:21,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-06-04
+BTNW,Setophaga virens,XC576844,train,25,0:49,B,creativecommons.org/licenses/by-nc-sa/4.0/,William Whitehead,United States,2020-07-15
+BTNW,Setophaga virens,XC990373,train,26,0:50,C,creativecommons.org/licenses/by-nc-sa/4.0/,Ray Cooke,Canada,2020-07-18
+BTNW,Setophaga virens,XC318131,train,27,0:52,B,creativecommons.org/licenses/by-nc-sa/4.0/,Iain,Canada,2016-05-14
+BTNW,Setophaga virens,XC309325,train,28,0:28,B,creativecommons.org/licenses/by-nc-sa/4.0/,J.R. Rigby,United States,2016-03-28
+BTNW,Setophaga virens,XC1013087,train,29,0:56,A,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-22
+BTNW,Setophaga virens,XC187637,train,30,1:22,B,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Driver,United States,2014-07-12
+BTNW,Setophaga virens,XC1072556,train,31,0:11,C,creativecommons.org/licenses/by-nc-sa/4.0/,Max Noack,Guatemala,2026-01-02
+BTNW,Setophaga virens,XC394528,train,32,0:29,A,creativecommons.org/licenses/by-nc-sa/4.0/,Martin St-Michel,Canada,2017-06-25
+BTNW,Setophaga virens,XC1022916,train,33,0:15,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-28
+BTNW,Setophaga virens,XC1022873,train,34,0:22,C,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-26
+BTNW,Setophaga virens,XC420883,train,35,0:18,A,creativecommons.org/licenses/by-nc-sa/4.0/,GABRIEL LEITE,United States,2018-06-14
+BTNW,Setophaga virens,XC1021891,val,36,2:24,A,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2024-05-18
+BTNW,Setophaga virens,XC962137,val,37,1:13,C,creativecommons.org/licenses/by-nc-sa/4.0/,Ray Cooke,Canada,2021-05-14
+BTNW,Setophaga virens,XC421770,val,38,0:46,B,creativecommons.org/licenses/by-nc-sa/4.0/,Jeff Dyck,Canada,2018-06-17
+BTNW,Setophaga virens,XC144676,val,39,1:16,B,creativecommons.org/licenses/by-nc-sa/3.0/,Paul Driver,United States,2013-07-16
+BTNW,Setophaga virens,XC1013088,val,40,0:19,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-22
+BTNW,Setophaga virens,XC979745,val,41,0:32,C,creativecommons.org/licenses/by-nc-sa/4.0/,Ray Cooke,Canada,2021-07-02
+BTNW,Setophaga virens,XC1022897,val,42,0:16,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-28
+BTNW,Setophaga virens,XC324402,val,43,0:11,B,creativecommons.org/licenses/by-nc-sa/4.0/,Bernard BOUSQUET,United States,2013-04-21
+BTNW,Setophaga virens,XC315579,val,44,0:38,C,creativecommons.org/licenses/by-nc-sa/4.0/,Daniel Parker,United States,2015-05-08
+BTNW,Setophaga virens,XC344578,val,45,0:26,B,creativecommons.org/licenses/by-nc-sa/4.0/,Alfonso Auerbach,Honduras,2016-11-29
+BTNW,Setophaga virens,XC1014365,val,46,0:10,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-30
+BTNW,Setophaga virens,XC557495,val,47,2:01,B,creativecommons.org/licenses/by-nc-sa/4.0/,William Whitehead,United States,2020-05-12
+BTNW,Setophaga virens,XC1014364,test,48,0:28,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-30
+BTNW,Setophaga virens,XC1022891,test,49,0:06,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-27
+BTNW,Setophaga virens,XC30785,test,50,0:39,A,creativecommons.org/licenses/by-nc-nd/2.5/,Andrew Spencer,United States,2008-06-25
+BTNW,Setophaga virens,XC1014730,test,51,2:03,A,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-06-04
+BTNW,Setophaga virens,XC49870,test,52,1:03,A,creativecommons.org/licenses/by-nc-nd/2.5/,Andrew Spencer,United States,2010-05-12
+BTNW,Setophaga virens,XC49869,test,53,0:34,A,creativecommons.org/licenses/by-nc-nd/2.5/,Andrew Spencer,United States,2010-05-10
+BTNW,Setophaga virens,XC1021893,test,54,2:23,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-22
+BTNW,Setophaga virens,XC1012692,test,55,0:07,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-19
+BTNW,Setophaga virens,XC400100,test,56,0:17,B,creativecommons.org/licenses/by-nc-sa/4.0/,Dan Lane,Mexico,2017-12-20
+BTNW,Setophaga virens,XC1014770,test,57,0:05,A,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-06-03
+BTNW,Setophaga virens,XC468087,test,58,1:06,A,creativecommons.org/licenses/by-nc-sa/4.0/,Martin St-Michel,Canada,2018-07-02
+BTNW,Setophaga virens,XC1038308,test,59,0:53,A,creativecommons.org/licenses/by-nc-sa/4.0/,Bobby Wilcox,United States,2025-06-19
+AMCR,Corvus brachyrhynchos,XC37647,train,0,0:19,C,creativecommons.org/licenses/by-nc-sa/3.0/,Bob Planqué,Canada,2007-07-18
+AMCR,Corvus brachyrhynchos,XC172878,train,1,0:20,A,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Marvin,United States,2012-12-07
+AMCR,Corvus brachyrhynchos,XC792018,train,2,0:07,A,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Driver,United States,2023-04-09
+AMCR,Corvus brachyrhynchos,XC406305,train,3,0:44,A,creativecommons.org/licenses/by-nc-sa/4.0/,Patrik Åberg,United States,2017-06-17
+AMCR,Corvus brachyrhynchos,XC160098,train,4,1:44,A,creativecommons.org/licenses/by-nc-nd/3.0/,Ian Cruickshank,Canada,2013-03-30
+AMCR,Corvus brachyrhynchos,XC1020220,train,5,0:29,A,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-06-03
+AMCR,Corvus brachyrhynchos,XC1010432,train,6,1:01,B,creativecommons.org/licenses/by-nc-sa/4.0/,Nikhil Patwardhan,Canada,2025-06-29
+AMCR,Corvus brachyrhynchos,XC104835,train,7,0:29,A,creativecommons.org/licenses/by-nc-nd/2.5/,Eric DeFonso,United States,2012-06-13
+AMCR,Corvus brachyrhynchos,XC332328,train,8,1:14,A,creativecommons.org/licenses/by-nc-sa/4.0/,Joshua Jaeger,United States,2016-08-04
+AMCR,Corvus brachyrhynchos,XC1020236,train,9,1:56,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-26
+AMCR,Corvus brachyrhynchos,XC160284,train,10,0:07,B,creativecommons.org/licenses/by-nc-nd/3.0/,Ian Cruickshank,Canada,2013-05-03
+AMCR,Corvus brachyrhynchos,XC114558,train,11,0:06,A,creativecommons.org/licenses/by-nc-sa/3.0/,Nathan Pieplow,United States,2009-03-24
+AMCR,Corvus brachyrhynchos,XC76433,train,12,0:14,A,creativecommons.org/licenses/by-nc-nd/2.5/,Andrew Spencer,United States,2011-04-22
+AMCR,Corvus brachyrhynchos,XC1020227,train,13,0:46,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-06-04
+AMCR,Corvus brachyrhynchos,XC941380,train,14,0:09,A,creativecommons.org/licenses/by-nc-sa/4.0/,Sue Riffe,United States,2024-04-03
+AMCR,Corvus brachyrhynchos,XC691531,train,15,1:41,A,creativecommons.org/licenses/by-nc-sa/4.0/,David A. Brinkman,United States,2021-12-14
+AMCR,Corvus brachyrhynchos,XC1012500,train,16,1:00,A,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-18
+AMCR,Corvus brachyrhynchos,XC509703,train,17,0:55,A,creativecommons.org/licenses/by-nc-sa/4.0/,Sunny Tseng,Canada,2019-11-11
+AMCR,Corvus brachyrhynchos,XC425504,train,18,0:23,B,creativecommons.org/licenses/by-nc-sa/4.0/,Thomas Magarian,United States,2018-06-03
+AMCR,Corvus brachyrhynchos,XC1037003,train,19,0:47,B,creativecommons.org/licenses/by-nc-sa/4.0/,Bobby Wilcox,United States,2025-05-19
+AMCR,Corvus brachyrhynchos,XC1084141,train,20,0:59,C,creativecommons.org/licenses/by-nc-sa/4.0/,Ray Cooke,Canada,2021-09-05
+AMCR,Corvus brachyrhynchos,XC703718,train,21,0:44,B,creativecommons.org/licenses/by-nc-nd/4.0/,Antonio Xeira,United States,2018-06-09
+AMCR,Corvus brachyrhynchos,XC197259,train,22,0:20,A,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Marvin,United States,2014-05-22
+AMCR,Corvus brachyrhynchos,XC653041,train,23,0:34,A,creativecommons.org/licenses/by-nc-sa/4.0/,Charlie W,Canada,2021-05-02
+AMCR,Corvus brachyrhynchos,XC394333,train,24,0:31,B,creativecommons.org/licenses/by-nc-sa/4.0/,Dominic Garcia-Hall,United States,2017-01-20
+AMCR,Corvus brachyrhynchos,XC172877,train,25,1:03,B,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Marvin,United States,2013-11-17
+AMCR,Corvus brachyrhynchos,XC155441,train,26,3:49,A,creativecommons.org/licenses/by-sa/3.0/,Jonathon Jongsma,United States,2013-11-18
+AMCR,Corvus brachyrhynchos,XC194293,train,27,0:29,C,creativecommons.org/licenses/by-nc-sa/4.0/,Richard E. Webster,United States,2014-06-24
+AMCR,Corvus brachyrhynchos,XC452517,train,28,0:32,C,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Marvin,United States,2019-01-14
+AMCR,Corvus brachyrhynchos,XC322267,train,29,0:32,B,creativecommons.org/licenses/by-nc-sa/4.0/,Bobby Wilcox,United States,2016-06-12
+AMCR,Corvus brachyrhynchos,XC121396,train,30,2:32,A,creativecommons.org/licenses/by-sa/3.0/,Jonathon Jongsma,United States,2013-02-10
+AMCR,Corvus brachyrhynchos,XC83721,train,31,0:35,B,creativecommons.org/licenses/by-nc-nd/2.5/,David Geale,Canada,2011-07-05
+AMCR,Corvus brachyrhynchos,XC115940,train,32,0:57,A,creativecommons.org/licenses/by-nc-sa/3.0/,Andrew Spencer,United States,2012-09-24
+AMCR,Corvus brachyrhynchos,XC451028,train,33,1:32,B,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Marvin,United States,2018-10-25
+AMCR,Corvus brachyrhynchos,XC112598,train,34,2:06,A,creativecommons.org/licenses/by-sa/3.0/,Jonathon Jongsma,United States,2012-11-12
+AMCR,Corvus brachyrhynchos,XC1020216,train,35,0:08,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-26
+AMCR,Corvus brachyrhynchos,XC193111,val,36,1:20,A,creativecommons.org/licenses/by-nc-sa/4.0/,Richard E. Webster,Canada,2014-06-22
+AMCR,Corvus brachyrhynchos,XC408017,val,37,0:28,B,creativecommons.org/licenses/by-nc-nd/4.0/,Frank Lambert,United States,2015-05-18
+AMCR,Corvus brachyrhynchos,XC114551,val,38,0:11,A,creativecommons.org/licenses/by-nc-sa/3.0/,Nathan Pieplow,United States,2011-04-10
+AMCR,Corvus brachyrhynchos,XC160165,val,39,0:40,B,creativecommons.org/licenses/by-nc-nd/3.0/,Ian Cruickshank,Canada,2013-04-15
+AMCR,Corvus brachyrhynchos,XC157464,val,40,3:14,C,creativecommons.org/licenses/by-nc-sa/3.0/,Ian Cruickshank,Canada,2013-08-10
+AMCR,Corvus brachyrhynchos,XC362405,val,41,0:38,B,creativecommons.org/licenses/by-nc-nd/4.0/,Frank Lambert,United States,2015-04-20
+AMCR,Corvus brachyrhynchos,XC949456,val,42,0:34,A,creativecommons.org/licenses/by-nc-sa/4.0/,Daniel Parker,United States,2024-06-24
+AMCR,Corvus brachyrhynchos,XC160518,val,43,0:15,B,creativecommons.org/licenses/by-nc-nd/3.0/,Ian Cruickshank,Canada,2013-05-21
+AMCR,Corvus brachyrhynchos,XC488886,val,44,0:24,B,creativecommons.org/licenses/by-nc-sa/4.0/,Brian Hendrix,United States,2019-07-24
+AMCR,Corvus brachyrhynchos,XC394319,val,45,0:45,B,creativecommons.org/licenses/by-nc-sa/4.0/,Alan Knue,United States,2017-09-24
+AMCR,Corvus brachyrhynchos,XC177595,val,46,0:30,C,creativecommons.org/licenses/by-nc-sa/4.0/,Antonio Silveira,United States,2013-06-23
+AMCR,Corvus brachyrhynchos,XC924638,val,47,1:46,A,creativecommons.org/licenses/by-nc-sa/4.0/,Michael Hurben,United States,2023-02-26
+AMCR,Corvus brachyrhynchos,XC134495,test,48,0:47,A,creativecommons.org/licenses/by-nc-sa/3.0/,Martin St-Michel,Canada,2013-05-18
+AMCR,Corvus brachyrhynchos,XC460872,test,49,0:05,B,creativecommons.org/licenses/by-nc-sa/4.0/,Uku Paal,United States,2019-02-23
+AMCR,Corvus brachyrhynchos,XC1161649,test,50,0:16,B,creativecommons.org/licenses/by-nc-nd/4.0/,rostratu,United States,2023-03-27
+AMCR,Corvus brachyrhynchos,XC815110,test,51,0:46,C,creativecommons.org/licenses/by-nc-sa/4.0/,Richard E. Webster,United States,2023-05-23
+AMCR,Corvus brachyrhynchos,XC320383,test,52,0:27,A,creativecommons.org/licenses/by-nc-sa/4.0/,Nick Komar,United States,2016-04-30
+AMCR,Corvus brachyrhynchos,XC420508,test,53,0:21,B,creativecommons.org/licenses/by-nc-sa/4.0/,Bobby Wilcox,United States,2018-06-12
+AMCR,Corvus brachyrhynchos,XC481136,test,54,0:26,A,creativecommons.org/licenses/by-nc-sa/4.0/,Meena Haribal,United States,2019-05-21
+AMCR,Corvus brachyrhynchos,XC826912,test,55,0:34,A,creativecommons.org/licenses/by-nc-sa/4.0/,Yoann Blanchon,United States,2023-07-29
+AMCR,Corvus brachyrhynchos,XC496355,test,56,7:07,A,creativecommons.org/licenses/by-nc-sa/4.0/,Thomas G. Graves,United States,2019-09-02
+AMCR,Corvus brachyrhynchos,XC190472,test,57,1:10,B,creativecommons.org/licenses/by-nc-nd/4.0/,Krzysztof Deoniziak,United States,2014-08-08
+AMCR,Corvus brachyrhynchos,XC722766,test,58,0:36,A,creativecommons.org/licenses/by-nc-sa/4.0/,Russ Wigh,United States,2022-05-06
+AMCR,Corvus brachyrhynchos,XC277023,test,59,1:00,A,creativecommons.org/licenses/by-nc-sa/4.0/,Greg Irving,United States,2015-08-20
+NOCA,Cardinalis cardinalis,XC579899,train,0,0:45,B,creativecommons.org/licenses/by-nc-sa/4.0/,Richard E. Webster,United States,2020-05-21
+NOCA,Cardinalis cardinalis,XC759250,train,1,0:27,B,creativecommons.org/licenses/by-nc-sa/4.0/,Richard E. Webster,United States,2019-03-11
+NOCA,Cardinalis cardinalis,XC1012493,train,2,1:05,A,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-18
+NOCA,Cardinalis cardinalis,XC409009,train,3,0:54,A,creativecommons.org/licenses/by-nc-nd/4.0/,Frank Lambert,United States,2017-02-26
+NOCA,Cardinalis cardinalis,XC1080763,train,4,0:44,B,creativecommons.org/licenses/by-nc-sa/4.0/,Scott Olmstead,United States,2026-02-14
+NOCA,Cardinalis cardinalis,XC677300,train,5,1:05,A,creativecommons.org/licenses/by-nc-sa/4.0/,David A. Brinkman,United States,2021-09-28
+NOCA,Cardinalis cardinalis,XC592258,train,6,0:32,A,creativecommons.org/licenses/by-nc-sa/4.0/,Brian Hendrix,United States,2020-10-01
+NOCA,Cardinalis cardinalis,XC560427,train,7,0:49,A,creativecommons.org/licenses/by-nc-sa/4.0/,Joss Price,United States,2020-05-20
+NOCA,Cardinalis cardinalis,XC1027842,train,8,2:15,A,creativecommons.org/licenses/by-nc-sa/4.0/,Jim Berry,United States,2025-07-08
+NOCA,Cardinalis cardinalis,XC581759,train,9,0:32,C,creativecommons.org/licenses/by-nc-sa/4.0/,Alexandre Terrigeol,Canada,2020-08-10
+NOCA,Cardinalis cardinalis,XC792359,train,10,0:56,A,creativecommons.org/licenses/by-nc-sa/4.0/,Stuart Fisher,United States,2010-05-22
+NOCA,Cardinalis cardinalis,XC618947,train,11,3:18,A,creativecommons.org/licenses/by-nc-sa/4.0/,Richard E. Webster,United States,2019-05-28
+NOCA,Cardinalis cardinalis,XC434580,train,12,1:49,C,creativecommons.org/licenses/by-nc-sa/4.0/,Brian T. Smith,United States,2015-05-06
+NOCA,Cardinalis cardinalis,XC372866,train,13,2:46,A,creativecommons.org/licenses/by-nc-sa/4.0/,Vicki Dern,United States,2017-05-14
+NOCA,Cardinalis cardinalis,XC590612,train,14,0:25,A,creativecommons.org/licenses/by-nc-sa/4.0/,Brian Hendrix,United States,2020-09-23
+NOCA,Cardinalis cardinalis,XC931706,train,15,0:56,A,creativecommons.org/licenses/by-nc-sa/4.0/,Richard E. Webster,United States,2024-04-11
+NOCA,Cardinalis cardinalis,XC639160,train,16,1:16,A,creativecommons.org/licenses/by-nc-nd/4.0/,William Whitehead,United States,2021-04-14
+NOCA,Cardinalis cardinalis,XC21378,train,17,0:21,B,creativecommons.org/licenses/by-nc-nd/2.5/,Richard E Webster,Mexico,2007-03-17
+NOCA,Cardinalis cardinalis,XC469588,train,18,0:47,A,creativecommons.org/licenses/by-nc-sa/4.0/,Rolf A. de By,United States,2000-05-16
+NOCA,Cardinalis cardinalis,XC1135221,train,19,0:37,C,creativecommons.org/licenses/by-nc-sa/4.0/,Mario Reyes Jr,United States,2026-05-17
+NOCA,Cardinalis cardinalis,XC636558,train,20,0:13,A,creativecommons.org/licenses/by-nc-sa/4.0/,Thomas Ryder Payne,Canada,2018-05-22
+NOCA,Cardinalis cardinalis,XC130962,train,21,0:32,B,creativecommons.org/licenses/by-nc-sa/3.0/,Mike Nelson,United States,2013-04-02
+NOCA,Cardinalis cardinalis,XC1093666,train,22,1:40,A,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Driver,United States,2026-04-03
+NOCA,Cardinalis cardinalis,XC746647,train,23,0:47,C,creativecommons.org/licenses/by-nc-sa/4.0/,Viral joshi,United States,2022-09-02
+NOCA,Cardinalis cardinalis,XC75622,train,24,0:56,B,creativecommons.org/licenses/by-nc-nd/2.5/,Ezekiel S. Jakub,United States,2011-04-11
+NOCA,Cardinalis cardinalis,XC313476,train,25,0:44,B,creativecommons.org/licenses/by-nc-sa/4.0/,Matt Wistrand,United States,2016-04-23
+NOCA,Cardinalis cardinalis,XC77572,train,26,0:26,A,creativecommons.org/licenses/by-sa/3.0/,Jonathon Jongsma,United States,2011-05-09
+NOCA,Cardinalis cardinalis,XC1083721,train,27,0:31,B,creativecommons.org/licenses/by-nc-sa/4.0/,Scott Olmstead,United States,2026-02-27
+NOCA,Cardinalis cardinalis,XC563619,train,28,0:49,A,creativecommons.org/licenses/by-nc-sa/4.0/,Brian Hendrix,United States,2020-05-30
+NOCA,Cardinalis cardinalis,XC391462,train,29,0:19,A,creativecommons.org/licenses/by-nc-nd/4.0/,Peter Boesman,United States,2017-10-23
+NOCA,Cardinalis cardinalis,XC234222,train,30,0:35,B,creativecommons.org/licenses/by-nc-sa/4.0/,Philip Richardson,United States,2015-04-04
+NOCA,Cardinalis cardinalis,XC1080775,train,31,0:54,A,creativecommons.org/licenses/by-nc-sa/4.0/,Scott Olmstead,United States,2026-02-14
+NOCA,Cardinalis cardinalis,XC388595,train,32,0:13,B,creativecommons.org/licenses/by-nc-sa/4.0/,Antonio Xeira,United States,2015-08-25
+NOCA,Cardinalis cardinalis,XC474584,train,33,1:08,C,creativecommons.org/licenses/by-nc-sa/4.0/,Bobby Wilcox,United States,2019-03-28
+NOCA,Cardinalis cardinalis,XC345986,train,34,0:25,B,creativecommons.org/licenses/by-nc-sa/4.0/,Ryan P. O'Donnell,United States,2016-07-18
+NOCA,Cardinalis cardinalis,XC366609,train,35,0:11,A,creativecommons.org/licenses/by-nc-sa/4.0/,Antonio Xeira,United States,2015-03-15
+NOCA,Cardinalis cardinalis,XC383941,val,36,0:14,A,creativecommons.org/licenses/by-nc-sa/4.0/,Antonio Xeira,United States,2015-02-15
+NOCA,Cardinalis cardinalis,XC477584,val,37,0:33,B,creativecommons.org/licenses/by-nc-sa/4.0/,Sue Riffe,United States,2019-05-14
+NOCA,Cardinalis cardinalis,XC502300,val,38,0:25,A,creativecommons.org/licenses/by-nc-sa/4.0/,Richard E. Webster,Mexico,2019-07-26
+NOCA,Cardinalis cardinalis,XC13190,val,39,0:25,A,creativecommons.org/licenses/by-nc-nd/2.5/,Andrew Spencer,United States,2007-04-29
+NOCA,Cardinalis cardinalis,XC170419,val,40,0:53,B,creativecommons.org/licenses/by-nc-sa/3.0/,Dan Lane,United States,2014-03-19
+NOCA,Cardinalis cardinalis,XC313512,val,41,0:14,A,creativecommons.org/licenses/by-nc-sa/4.0/,Antonio Xeira,United States,2016-04-22
+NOCA,Cardinalis cardinalis,XC306947,val,42,0:38,A,creativecommons.org/licenses/by-nc-sa/4.0/,Scott Olmstead,United States,2016-02-28
+NOCA,Cardinalis cardinalis,XC332576,val,43,0:57,B,creativecommons.org/licenses/by-nc-sa/4.0/,Bobby Wilcox,United States,2016-08-04
+NOCA,Cardinalis cardinalis,XC931713,val,44,2:16,B,creativecommons.org/licenses/by-nc-sa/4.0/,Richard E. Webster,United States,2024-04-20
+NOCA,Cardinalis cardinalis,XC475879,val,45,0:05,B,creativecommons.org/licenses/by-nc-sa/4.0/,Eric Hough,United States,2019-04-15
+NOCA,Cardinalis cardinalis,XC579900,val,46,1:06,B,creativecommons.org/licenses/by-nc-sa/4.0/,Richard E. Webster,United States,2020-04-29
+NOCA,Cardinalis cardinalis,XC237430,val,47,0:11,B,creativecommons.org/licenses/by-nc-sa/4.0/,David Vander Pluym,United States,2015-04-18
+NOCA,Cardinalis cardinalis,XC356015,test,48,0:19,A,creativecommons.org/licenses/by-nc-sa/4.0/,Ted Floyd,United States,2017-02-17
+NOCA,Cardinalis cardinalis,XC184570,test,49,0:56,B,creativecommons.org/licenses/by-nc-sa/4.0/,Brady S.,United States,2014-07-01
+NOCA,Cardinalis cardinalis,XC1010609,test,50,1:07,A,creativecommons.org/licenses/by-nc-sa/4.0/,Rory Nefdt,United States,2025-06-28
+NOCA,Cardinalis cardinalis,XC190526,test,51,2:24,A,creativecommons.org/licenses/by-nc-nd/4.0/,Krzysztof Deoniziak,United States,2014-08-01
+NOCA,Cardinalis cardinalis,XC460737,test,52,0:51,B,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Marvin,United States,2018-05-12
+NOCA,Cardinalis cardinalis,XC415925,test,53,0:44,B,creativecommons.org/licenses/by-nc-sa/4.0/,Bobby Wilcox,United States,2018-03-25
+NOCA,Cardinalis cardinalis,XC415887,test,54,0:22,A,creativecommons.org/licenses/by-nc-sa/4.0/,Matt Wistrand,United States,2018-05-18
+NOCA,Cardinalis cardinalis,XC21377,test,55,0:32,B,creativecommons.org/licenses/by-nc-nd/2.5/,Richard E Webster,Mexico,2007-03-17
+NOCA,Cardinalis cardinalis,XC86497,test,56,0:05,B,creativecommons.org/licenses/by-nc-nd/2.5/,Paul Driver,United States,2011-04-10
+NOCA,Cardinalis cardinalis,XC819147,test,57,0:08,C,creativecommons.org/licenses/by-nc-sa/4.0/,Sue Riffe,United States,2023-05-02
+NOCA,Cardinalis cardinalis,XC71208,test,58,0:40,A,creativecommons.org/licenses/by-nc-nd/2.5/,Todd Wilson,United States,2011-02-05
+NOCA,Cardinalis cardinalis,XC618946,test,59,1:40,A,creativecommons.org/licenses/by-nc-sa/4.0/,Richard E. Webster,United States,2020-08-30
+BCCH,Poecile atricapillus,XC41677,train,0,1:04,A,creativecommons.org/licenses/by-nc-nd/2.5/,Tayler Brooks,United States,2009-12-23
+BCCH,Poecile atricapillus,XC1056056,train,1,0:25,B,creativecommons.org/licenses/by-nc-sa/4.0/,Denis Dujardin,United States,2024-08-04
+BCCH,Poecile atricapillus,XC959153,train,2,0:49,A,creativecommons.org/licenses/by-nc-sa/4.0/,Shelby M Palmer,United States,2024-12-27
+BCCH,Poecile atricapillus,XC210518,train,3,0:36,C,creativecommons.org/licenses/by-nc-sa/4.0/,Greg Irving,United States,2014-08-26
+BCCH,Poecile atricapillus,XC284487,train,4,1:50,C,creativecommons.org/licenses/by-nc-sa/4.0/,Dan Lane,United States,2015-10-07
+BCCH,Poecile atricapillus,XC731137,train,5,0:14,C,creativecommons.org/licenses/by-nc-sa/4.0/,Thomas Magarian,United States,2022-04-22
+BCCH,Poecile atricapillus,XC304270,train,6,0:15,A,creativecommons.org/licenses/by-nc-sa/4.0/,Antonio Xeira,United States,2016-02-17
+BCCH,Poecile atricapillus,XC164791,train,7,1:35,B,creativecommons.org/licenses/by-sa/3.0/,Jonathon Jongsma,United States,2014-01-12
+BCCH,Poecile atricapillus,XC262804,train,8,1:09,C,creativecommons.org/licenses/by-nc-sa/4.0/,Hal Mitchell,United States,2015-07-19
+BCCH,Poecile atricapillus,XC408992,train,9,0:59,A,creativecommons.org/licenses/by-nc-nd/4.0/,Frank Lambert,United States,2016-09-27
+BCCH,Poecile atricapillus,XC1008067,train,10,0:11,A,creativecommons.org/licenses/by-nc-sa/4.0/,David A. Brinkman,United States,2025-06-10
+BCCH,Poecile atricapillus,XC720923,train,11,0:46,A,creativecommons.org/licenses/by-nc-sa/4.0/,Thomas Ryder Payne,Canada,2021-04-11
+BCCH,Poecile atricapillus,XC535200,train,12,0:39,C,creativecommons.org/licenses/by-nc-sa/4.0/,"Betchkal, Davyd; Peterson,  Robert",United States,2015-08-06
+BCCH,Poecile atricapillus,XC466948,train,13,1:37,B,creativecommons.org/licenses/by-nc-sa/4.0/,Dan Lane,United States,2017-06-06
+BCCH,Poecile atricapillus,XC642360,train,14,0:15,C,creativecommons.org/licenses/by-nc-sa/4.0/,Don Henise,United States,2021-04-22
+BCCH,Poecile atricapillus,XC357733,train,15,1:07,B,creativecommons.org/licenses/by-nc-sa/4.0/,Matt Wistrand,United States,2017-03-03
+BCCH,Poecile atricapillus,XC51770,train,16,0:07,A,creativecommons.org/licenses/by-nc-nd/2.5/,Ian Davies,United States,2010-05-21
+BCCH,Poecile atricapillus,XC179792,train,17,0:40,B,creativecommons.org/licenses/by-nc-sa/4.0/,Dan Lane,United States,2014-05-04
+BCCH,Poecile atricapillus,XC91543,train,18,0:11,B,creativecommons.org/licenses/by-nc-nd/2.5/,Craig R. Fosdick,United States,2011-08-10
+BCCH,Poecile atricapillus,XC610811,train,19,1:18,B,creativecommons.org/licenses/by-nc-nd/4.0/,William Whitehead,United States,2020-12-26
+BCCH,Poecile atricapillus,XC957290,train,20,0:34,B,creativecommons.org/licenses/by-nc-sa/4.0/,Arjun Dutta,Canada,2022-08-07
+BCCH,Poecile atricapillus,XC500125,train,21,0:35,B,creativecommons.org/licenses/by-nc-sa/4.0/,Jacob Saucier,United States,2015-06-17
+BCCH,Poecile atricapillus,XC76509,train,22,0:16,A,creativecommons.org/licenses/by-nc-nd/2.5/,Andrew Spencer,United States,2011-04-23
+BCCH,Poecile atricapillus,XC961968,train,23,0:12,A,creativecommons.org/licenses/by-nc-sa/4.0/,A Richardson,United States,2017-08-25
+BCCH,Poecile atricapillus,XC374840,train,24,1:44,A,creativecommons.org/licenses/by-nc-sa/4.0/,Scott Gravette,United States,2017-06-06
+BCCH,Poecile atricapillus,XC160382,train,25,0:35,C,creativecommons.org/licenses/by-nc-nd/3.0/,Ian Cruickshank,Canada,2013-05-08
+BCCH,Poecile atricapillus,XC233942,train,26,0:10,B,creativecommons.org/licenses/by-nc-sa/4.0/,Albert Lastukhin & Max lastukhin,United States,2015-03-12
+BCCH,Poecile atricapillus,XC1034483,train,27,1:42,B,creativecommons.org/licenses/by-nc-sa/4.0/,Greg Irving,Canada,2025-08-31
+BCCH,Poecile atricapillus,XC253535,train,28,0:05,B,creativecommons.org/licenses/by-nc-sa/4.0/,Eric DeFonso,United States,2015-06-01
+BCCH,Poecile atricapillus,XC406662,train,29,1:36,B,creativecommons.org/licenses/by-nc-sa/4.0/,Matt Wistrand,United States,2018-03-18
+BCCH,Poecile atricapillus,XC636533,train,30,0:16,A,creativecommons.org/licenses/by-nc-sa/4.0/,Thomas Ryder Payne,Canada,2018-07-24
+BCCH,Poecile atricapillus,XC406258,train,31,0:59,B,creativecommons.org/licenses/by-nc-sa/4.0/,Patrik Åberg,United States,2017-06-16
+BCCH,Poecile atricapillus,XC135477,train,32,0:25,B,creativecommons.org/licenses/by-nc-sa/3.0/,Mike Nelson,United States,2013-05-25
+BCCH,Poecile atricapillus,XC589309,train,33,0:15,B,creativecommons.org/licenses/by-nc-sa/4.0/,Ted Floyd,United States,2020-09-16
+BCCH,Poecile atricapillus,XC490936,train,34,1:06,C,creativecommons.org/licenses/by-nc-sa/4.0/,Steve Hampton,United States,2018-07-25
+BCCH,Poecile atricapillus,XC103201,train,35,0:20,B,creativecommons.org/licenses/by-nc-nd/2.5/,Eric DeFonso,United States,2012-04-10
+BCCH,Poecile atricapillus,XC607732,val,36,0:10,B,creativecommons.org/licenses/by-nc-nd/4.0/,William Whitehead,United States,2020-12-09
+BCCH,Poecile atricapillus,XC284495,val,37,0:20,C,creativecommons.org/licenses/by-nc-sa/4.0/,Dan Lane,United States,2015-10-07
+BCCH,Poecile atricapillus,XC726692,val,38,0:23,C,creativecommons.org/licenses/by-nc-sa/4.0/,Frank Caruso,United States,2022-05-23
+BCCH,Poecile atricapillus,XC175038,val,39,1:23,B,creativecommons.org/licenses/by-nc-sa/4.0/,Martin St-Michel,Canada,2014-04-18
+BCCH,Poecile atricapillus,XC757387,val,40,0:15,B,creativecommons.org/licenses/by-nc-sa/4.0/,Yishai Blum,United States,2022-10-22
+BCCH,Poecile atricapillus,XC51771,val,41,0:06,A,creativecommons.org/licenses/by-nc-nd/2.5/,Ian Davies,United States,2010-05-21
+BCCH,Poecile atricapillus,XC624464,val,42,0:30,A,creativecommons.org/licenses/by-nc-sa/4.0/,Thomas Magarian,United States,2020-06-19
+BCCH,Poecile atricapillus,XC624456,val,43,0:20,A,creativecommons.org/licenses/by-nc-sa/4.0/,Thomas Magarian,United States,2020-04-26
+BCCH,Poecile atricapillus,XC598808,val,44,1:11,A,creativecommons.org/licenses/by-nc-sa/4.0/,Christopher McPherson,United States,2019-06-22
+BCCH,Poecile atricapillus,XC139827,val,45,0:44,C,creativecommons.org/licenses/by-nc-sa/3.0/,GABRIEL LEITE,United States,2013-05-13
+BCCH,Poecile atricapillus,XC1060244,val,46,1:01,A,creativecommons.org/licenses/by-nc-sa/4.0/,Bram Piot,Canada,2025-11-14
+BCCH,Poecile atricapillus,XC854961,val,47,1:43,C,creativecommons.org/licenses/by-nc-sa/4.0/,Michael Hurben,United States,2023-03-23
+BCCH,Poecile atricapillus,XC776149,test,48,2:48,A,creativecommons.org/licenses/by-nc-sa/4.0/,Thomas Magarian,United States,2021-08-20
+BCCH,Poecile atricapillus,XC1083377,test,49,1:20,C,creativecommons.org/licenses/by-nc-sa/4.0/,Greg Irving,United States,2026-02-23
+BCCH,Poecile atricapillus,XC582568,test,50,0:29,B,creativecommons.org/licenses/by-nc-sa/4.0/,James Link,United States,2020-08-05
+BCCH,Poecile atricapillus,XC394059,test,51,0:07,A,creativecommons.org/licenses/by-nc-sa/4.0/,Dominic Garcia-Hall,United States,2016-11-24
+BCCH,Poecile atricapillus,XC182680,test,52,1:08,B,creativecommons.org/licenses/by-nc-sa/4.0/,Martin St-Michel,Canada,2014-05-25
+BCCH,Poecile atricapillus,XC990126,test,53,0:47,C,creativecommons.org/licenses/by-nc-sa/4.0/,Ray Cooke,Canada,2020-10-23
+BCCH,Poecile atricapillus,XC994349,test,54,1:58,B,creativecommons.org/licenses/by-nc-sa/4.0/,Ray Cooke,Canada,2021-01-24
+BCCH,Poecile atricapillus,XC776012,test,55,0:11,B,creativecommons.org/licenses/by-nc-sa/4.0/,Thomas Magarian,United States,2021-08-20
+BCCH,Poecile atricapillus,XC776017,test,56,0:38,C,creativecommons.org/licenses/by-nc-sa/4.0/,Thomas Magarian,United States,2021-08-20
+BCCH,Poecile atricapillus,XC436929,test,57,0:24,C,creativecommons.org/licenses/by-nc-sa/4.0/,Wesley Rajaleelan,Canada,2018-10-01
+BCCH,Poecile atricapillus,XC524909,test,58,0:15,C,creativecommons.org/licenses/by-nc-sa/4.0/,Long Benjamin,Canada,2019-06-09
+BCCH,Poecile atricapillus,XC433166,test,59,0:47,B,creativecommons.org/licenses/by-nc-sa/4.0/,Logan McLeod,Canada,2017-07-13
+TUTI,Baeolophus bicolor,XC1043033,train,0,0:46,B,creativecommons.org/licenses/by-nc-sa/4.0/,Sue Riffe,United States,2025-03-28
+TUTI,Baeolophus bicolor,XC493455,train,1,0:07,B,creativecommons.org/licenses/by-nc-sa/4.0/,Sue Riffe,United States,2019-07-12
+TUTI,Baeolophus bicolor,XC29510,train,2,0:31,A,creativecommons.org/licenses/by-nc-nd/2.5/,Andrew Spencer,United States,2008-06-21
+TUTI,Baeolophus bicolor,XC313159,train,3,1:17,A,creativecommons.org/licenses/by-nc-sa/4.0/,J.R. Rigby,United States,2016-03-20
+TUTI,Baeolophus bicolor,XC282287,train,4,2:02,B,creativecommons.org/licenses/by-nc-sa/4.0/,Albert Lastukhin & Max Lastukhin,United States,2015-05-02
+TUTI,Baeolophus bicolor,XC310945,train,5,0:22,C,creativecommons.org/licenses/by-nc-sa/4.0/,Bates Estabrooks,United States,2016-04-08
+TUTI,Baeolophus bicolor,XC15184,train,6,0:40,A,creativecommons.org/licenses/by-nc-nd/2.5/,Chris Parrish,United States,2007-03-27
+TUTI,Baeolophus bicolor,XC308403,train,7,0:10,C,creativecommons.org/licenses/by-nc-sa/4.0/,Antonio Xeira,United States,2016-03-22
+TUTI,Baeolophus bicolor,XC168037,train,8,0:31,B,creativecommons.org/licenses/by-nc-sa/3.0/,Paul Driver,United States,2014-02-01
+TUTI,Baeolophus bicolor,XC287295,train,9,0:42,C,creativecommons.org/licenses/by-nc-sa/4.0/,Nick Komar,United States,2015-10-10
+TUTI,Baeolophus bicolor,XC168008,train,10,0:29,B,creativecommons.org/licenses/by-nc-sa/3.0/,Paul Driver,United States,2013-02-16
+TUTI,Baeolophus bicolor,XC836575,train,11,0:37,B,creativecommons.org/licenses/by-nc-sa/4.0/,Bobby Wilcox,United States,2023-10-05
+TUTI,Baeolophus bicolor,XC814176,train,12,1:05,B,creativecommons.org/licenses/by-nc-sa/4.0/,Thomas Magarian,United States,2023-04-04
+TUTI,Baeolophus bicolor,XC29512,train,13,0:08,B,creativecommons.org/licenses/by-nc-nd/2.5/,Andrew Spencer,United States,2008-06-20
+TUTI,Baeolophus bicolor,XC1138574,train,14,0:14,A,creativecommons.org/licenses/by-nc-sa/4.0/,Rory Nefdt,United States,2025-10-30
+TUTI,Baeolophus bicolor,XC428277,train,15,0:25,B,creativecommons.org/licenses/by-nc-sa/4.0/,Bobby Wilcox,United States,2018-07-23
+TUTI,Baeolophus bicolor,XC168010,train,16,0:38,B,creativecommons.org/licenses/by-nc-sa/3.0/,Paul Driver,United States,2013-02-16
+TUTI,Baeolophus bicolor,XC72805,train,17,0:53,B,creativecommons.org/licenses/by-nc-nd/2.5/,Ezekiel S. Jakub,United States,2011-03-00
+TUTI,Baeolophus bicolor,XC391437,train,18,0:28,C,creativecommons.org/licenses/by-nc-nd/4.0/,Peter Boesman,United States,2017-10-19
+TUTI,Baeolophus bicolor,XC168007,train,19,1:43,B,creativecommons.org/licenses/by-nc-sa/3.0/,Paul Driver,United States,2012-03-25
+TUTI,Baeolophus bicolor,XC233656,train,20,0:39,B,creativecommons.org/licenses/by-nc-sa/4.0/,David Sarkozi,United States,2015-03-29
+TUTI,Baeolophus bicolor,XC879234,train,21,1:19,A,creativecommons.org/licenses/by-nc-sa/4.0/,Thomas Magarian,United States,2024-02-06
+TUTI,Baeolophus bicolor,XC861595,train,22,0:14,A,creativecommons.org/licenses/by-nc-sa/4.0/,Dany Sloan,United States,2024-01-01
+TUTI,Baeolophus bicolor,XC234173,train,23,2:06,C,creativecommons.org/licenses/by-nc-sa/4.0/,Daniel Parker,United States,2015-04-03
+TUTI,Baeolophus bicolor,XC1035994,train,24,0:16,A,creativecommons.org/licenses/by-nc-sa/4.0/,Rory Nefdt,United States,2025-09-02
+TUTI,Baeolophus bicolor,XC1133850,train,25,0:29,B,creativecommons.org/licenses/by-nc-sa/4.0/,Rory Nefdt,United States,2026-04-27
+TUTI,Baeolophus bicolor,XC383949,train,26,0:22,B,creativecommons.org/licenses/by-nc-sa/4.0/,Antonio Xeira,United States,2015-04-16
+TUTI,Baeolophus bicolor,XC572390,train,27,0:32,C,creativecommons.org/licenses/by-nc-sa/4.0/,Brian Hendrix,United States,2020-06-29
+TUTI,Baeolophus bicolor,XC895278,train,28,0:48,C,creativecommons.org/licenses/by-nc-sa/4.0/,Thomas Magarian,United States,2024-03-26
+TUTI,Baeolophus bicolor,XC282283,train,29,0:10,B,creativecommons.org/licenses/by-nc-sa/4.0/,Albert Lastukhin & Max Lastukhin,United States,2015-03-13
+TUTI,Baeolophus bicolor,XC33596,train,30,1:27,A,creativecommons.org/licenses/by-nc-nd/2.5/,Andrew Spencer,United States,2009-04-26
+TUTI,Baeolophus bicolor,XC420606,train,31,0:29,B,creativecommons.org/licenses/by-nc-sa/4.0/,Bates Estabrooks,United States,2018-06-15
+TUTI,Baeolophus bicolor,XC236017,train,32,0:22,A,creativecommons.org/licenses/by-nc-sa/4.0/,Danny Zapata-Henao,United States,2015-04-15
+TUTI,Baeolophus bicolor,XC163236,train,33,0:50,C,creativecommons.org/licenses/by-nc-sa/3.0/,Daniel Parker,United States,2012-04-23
+TUTI,Baeolophus bicolor,XC124762,train,34,0:36,B,creativecommons.org/licenses/by-nc-sa/3.0/,Thomas G. Graves,United States,1999-04-25
+TUTI,Baeolophus bicolor,XC462339,train,35,0:20,C,creativecommons.org/licenses/by-nc-sa/4.0/,Wayne Klockner,United States,2019-03-20
+TUTI,Baeolophus bicolor,XC572375,val,36,0:08,A,creativecommons.org/licenses/by-nc-sa/4.0/,Brian Hendrix,United States,2020-06-29
+TUTI,Baeolophus bicolor,XC789382,val,37,0:41,B,creativecommons.org/publicdomain/zero/1.0/,The Vermont Birder Guy,United States,2023-03-29
+TUTI,Baeolophus bicolor,XC871625,val,38,0:06,B,creativecommons.org/licenses/by-nc-sa/4.0/,Thomas Magarian,United States,2024-01-24
+TUTI,Baeolophus bicolor,XC575273,val,39,1:26,B,creativecommons.org/licenses/by-nc-sa/4.0/,Erik Ost,United States,2020-06-13
+TUTI,Baeolophus bicolor,XC467634,val,40,2:58,B,creativecommons.org/licenses/by-nc-sa/4.0/,Martin St-Michel,Canada,2018-06-10
+TUTI,Baeolophus bicolor,XC513676,val,41,0:49,B,creativecommons.org/licenses/by-nc-sa/4.0/,Bobby Wilcox,United States,2019-12-25
+TUTI,Baeolophus bicolor,XC627685,val,42,0:35,A,creativecommons.org/licenses/by-nc-sa/4.0/,Russ Wigh,United States,2021-03-09
+TUTI,Baeolophus bicolor,XC282286,val,43,0:51,B,creativecommons.org/licenses/by-nc-sa/4.0/,Albert Lastukhin & Max Lastukhin,United States,2015-05-02
+TUTI,Baeolophus bicolor,XC465256,val,44,0:19,C,creativecommons.org/licenses/by-nc-sa/4.0/,William Whitehead,United States,2019-04-05
+TUTI,Baeolophus bicolor,XC311713,val,45,0:08,B,creativecommons.org/licenses/by-nc-sa/4.0/,Antonio Xeira,United States,2016-03-19
+TUTI,Baeolophus bicolor,XC388720,val,46,0:39,B,creativecommons.org/licenses/by-nc-sa/4.0/,Nick Pulcinella,United States,2017-04-04
+TUTI,Baeolophus bicolor,XC804995,val,47,0:23,C,creativecommons.org/licenses/by-nc-sa/4.0/,Bobby Wilcox,United States,2023-04-18
+TUTI,Baeolophus bicolor,XC726688,test,48,0:21,B,creativecommons.org/licenses/by-nc-sa/4.0/,Frank Caruso,United States,2022-05-17
+TUTI,Baeolophus bicolor,XC305160,test,49,0:32,C,creativecommons.org/licenses/by-nc-sa/4.0/,Matt Brady,United States,2016-02-28
+TUTI,Baeolophus bicolor,XC145939,test,50,1:55,C,creativecommons.org/licenses/by-nc-sa/3.0/,Paul Marvin,United States,2013-08-09
+TUTI,Baeolophus bicolor,XC781968,test,51,0:35,A,creativecommons.org/licenses/by-nc-sa/4.0/,Shelby M Palmer,United States,2023-02-21
+TUTI,Baeolophus bicolor,XC67170,test,52,0:19,B,creativecommons.org/licenses/by-nc-sa/3.0/,Daniel Lane,United States,1989-04-00
+TUTI,Baeolophus bicolor,XC168011,test,53,1:05,B,creativecommons.org/licenses/by-nc-sa/3.0/,Paul Driver,United States,2012-03-12
+TUTI,Baeolophus bicolor,XC269616,test,54,0:25,B,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Marvin,United States,2015-07-05
+TUTI,Baeolophus bicolor,XC138137,test,55,0:13,C,creativecommons.org/licenses/by-nc-sa/3.0/,John Topolski,United States,2013-06-09
+TUTI,Baeolophus bicolor,XC569728,test,56,0:06,B,creativecommons.org/licenses/by-nc-sa/4.0/,Jeff D. Brawn and Mark E. Hauber,United States,2020-05-22
+TUTI,Baeolophus bicolor,XC581501,test,57,0:22,B,creativecommons.org/licenses/by-nc-sa/4.0/,Bobby Wilcox,United States,2020-08-08
+TUTI,Baeolophus bicolor,XC100238,test,58,0:30,B,creativecommons.org/licenses/by-nc-nd/2.5/,Mike Nelson,United States,2012-05-02
+TUTI,Baeolophus bicolor,XC390275,test,59,0:14,B,creativecommons.org/licenses/by-nc-sa/4.0/,Antonio Xeira,United States,2016-04-28
+OVEN,Seiurus aurocapilla,XC229634,train,0,0:10,B,creativecommons.org/licenses/by-nc-nd/4.0/,Peter Boesman,Mexico,1998-12-01
+OVEN,Seiurus aurocapilla,XC420730,train,1,3:59,A,creativecommons.org/licenses/by-nc-sa/4.0/,Matt Wistrand,United States,2018-06-16
+OVEN,Seiurus aurocapilla,XC922808,train,2,3:45,A,creativecommons.org/licenses/by-nc-sa/4.0/,Ray Cooke,Canada,2024-06-08
+OVEN,Seiurus aurocapilla,XC514728,train,3,0:52,C,creativecommons.org/licenses/by-nc-sa/4.0/,Mario Reyes Jr,Honduras,2019-12-31
+OVEN,Seiurus aurocapilla,XC990173,train,4,0:35,C,creativecommons.org/licenses/by-nc-sa/4.0/,Ray Cooke,Canada,2020-06-28
+OVEN,Seiurus aurocapilla,XC602036,train,5,1:55,A,creativecommons.org/licenses/by-nc-sa/4.0/,Christopher McPherson,United States,2020-05-11
+OVEN,Seiurus aurocapilla,XC797247,train,6,0:25,A,creativecommons.org/licenses/by-sa/4.0/,steve,United States,2023-04-30
+OVEN,Seiurus aurocapilla,XC972167,train,7,0:36,C,creativecommons.org/licenses/by-nc-sa/4.0/,Ray Cooke,Canada,2021-06-20
+OVEN,Seiurus aurocapilla,XC435593,train,8,0:21,C,creativecommons.org/licenses/by-nc-sa/4.0/,Asher Warkentin,Canada,2018-06-27
+OVEN,Seiurus aurocapilla,XC805432,train,9,0:53,B,creativecommons.org/licenses/by-nc-sa/4.0/,Alex Lin-Moore,United States,2022-05-06
+OVEN,Seiurus aurocapilla,XC670686,train,10,6:34,A,creativecommons.org/licenses/by-sa/4.0/,Doug Hynes,Canada,2021-06-22
+OVEN,Seiurus aurocapilla,XC1065246,train,11,0:10,B,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Driver,United States,2025-09-30
+OVEN,Seiurus aurocapilla,XC78707,train,12,1:58,A,creativecommons.org/licenses/by-nc-nd/2.5/,Mike Nelson,United States,2011-05-25
+OVEN,Seiurus aurocapilla,XC556581,train,13,0:06,C,creativecommons.org/licenses/by-nc-sa/4.0/,Caio Brito,United States,2019-04-22
+OVEN,Seiurus aurocapilla,XC1013782,train,14,0:23,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-26
+OVEN,Seiurus aurocapilla,XC185275,train,15,1:27,B,creativecommons.org/licenses/by-nc-sa/4.0/,Richard E. Webster,United States,2014-06-05
+OVEN,Seiurus aurocapilla,XC100199,train,16,0:05,A,creativecommons.org/licenses/by-nc-nd/2.5/,Mike Nelson,United States,2012-05-02
+OVEN,Seiurus aurocapilla,XC1018252,train,17,3:51,A,creativecommons.org/licenses/by-nc-sa/4.0/,David Liebl,United States,2024-05-29
+OVEN,Seiurus aurocapilla,XC421877,train,18,0:47,A,creativecommons.org/licenses/by-nc-sa/4.0/,Jeff Dyck,Canada,2018-06-16
+OVEN,Seiurus aurocapilla,XC13641,train,19,0:57,A,creativecommons.org/licenses/by-nc-nd/2.5/,Chris Parrish,Canada,2007-05-24
+OVEN,Seiurus aurocapilla,XC1078483,train,20,1:00,B,creativecommons.org/licenses/by-nc-sa/4.0/,Scott Olmstead,United States,2021-06-02
+OVEN,Seiurus aurocapilla,XC628168,train,21,0:32,C,creativecommons.org/licenses/by-nc-sa/4.0/,Sue Riffe,United States,2017-06-10
+OVEN,Seiurus aurocapilla,XC703899,train,22,0:07,C,creativecommons.org/licenses/by-nc-sa/4.0/,Jeff Stewart,Canada,2021-08-21
+OVEN,Seiurus aurocapilla,XC83548,train,23,0:12,A,creativecommons.org/licenses/by-nc-nd/2.5/,Jelmer Poelstra,Canada,2008-05-27
+OVEN,Seiurus aurocapilla,XC182094,train,24,0:55,C,creativecommons.org/licenses/by-nc-sa/4.0/,Jerome Fischer,Canada,2001-00-00
+OVEN,Seiurus aurocapilla,XC100203,train,25,0:09,B,creativecommons.org/licenses/by-nc-nd/2.5/,Mike Nelson,United States,2012-05-02
+OVEN,Seiurus aurocapilla,XC1013778,train,26,0:09,A,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-26
+OVEN,Seiurus aurocapilla,XC746645,train,27,1:48,B,creativecommons.org/licenses/by-nc-nd/4.0/,William Whitehead,United States,2022-09-02
+OVEN,Seiurus aurocapilla,XC251800,train,28,0:23,B,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Driver,United States,2015-06-07
+OVEN,Seiurus aurocapilla,XC1014287,train,29,0:13,A,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-29
+OVEN,Seiurus aurocapilla,XC512270,train,30,1:17,A,creativecommons.org/licenses/by-nc-sa/4.0/,Peter Ward and Ken Hall,Canada,1989-05-30
+OVEN,Seiurus aurocapilla,XC1013895,train,31,0:47,A,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-27
+OVEN,Seiurus aurocapilla,XC703898,train,32,0:07,B,creativecommons.org/licenses/by-nc-sa/4.0/,Jeff Stewart,Canada,2021-09-01
+OVEN,Seiurus aurocapilla,XC486978,train,33,2:10,A,creativecommons.org/licenses/by-nc-sa/4.0/,David Welch,Canada,2019-07-13
+OVEN,Seiurus aurocapilla,XC420847,train,34,0:30,A,creativecommons.org/licenses/by-nc-sa/4.0/,Meena Haribal,United States,2018-06-17
+OVEN,Seiurus aurocapilla,XC147477,train,35,0:30,B,creativecommons.org/licenses/by-nc-sa/3.0/,Paul Marvin,United States,2013-09-03
+OVEN,Seiurus aurocapilla,XC189278,val,36,1:50,B,creativecommons.org/licenses/by-nc-sa/4.0/,Richard E. Webster,Canada,2014-06-16
+OVEN,Seiurus aurocapilla,XC825102,val,37,1:07,B,creativecommons.org/licenses/by-nc-sa/4.0/,Richard E. Webster,United States,2023-05-22
+OVEN,Seiurus aurocapilla,XC69873,val,38,0:20,C,creativecommons.org/licenses/by-nc-nd/2.5/,manuel Grosselet,Mexico,2011-01-09
+OVEN,Seiurus aurocapilla,XC54138,val,39,0:12,C,creativecommons.org/licenses/by-nc-sa/3.0/,Mike Nelson,United States,2008-04-23
+OVEN,Seiurus aurocapilla,XC437581,val,40,0:20,B,creativecommons.org/licenses/by-nc-sa/4.0/,Alfonso Auerbach,Honduras,2018-10-04
+OVEN,Seiurus aurocapilla,XC964345,val,41,0:11,A,creativecommons.org/licenses/by-nc-sa/4.0/,A Richardson,United States,2023-08-14
+OVEN,Seiurus aurocapilla,XC654419,val,42,0:21,C,creativecommons.org/licenses/by-nc-sa/4.0/,Henro Feher,Canada,2021-06-04
+OVEN,Seiurus aurocapilla,XC1017604,val,43,0:14,A,creativecommons.org/licenses/by-nc-nd/4.0/,Andrew Spencer,Canada,2025-06-02
+OVEN,Seiurus aurocapilla,XC1044622,val,44,0:16,B,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Driver,United States,2025-09-11
+OVEN,Seiurus aurocapilla,XC933938,val,45,0:14,B,creativecommons.org/licenses/by-nc-nd/4.0/,Brendan Sloan,Guatemala,2024-02-05
+OVEN,Seiurus aurocapilla,XC1072552,val,46,0:06,B,creativecommons.org/licenses/by-nc-sa/4.0/,Max Noack,Guatemala,2026-01-04
+OVEN,Seiurus aurocapilla,XC252959,val,47,0:44,B,creativecommons.org/licenses/by-nc-sa/4.0/,Lance A. M. Benner,United States,2015-06-13
+OVEN,Seiurus aurocapilla,XC1163648,test,48,0:11,C,creativecommons.org/licenses/by-nc-sa/4.0/,Zsombor Károlyi,Cuba,2025-01-20
+OVEN,Seiurus aurocapilla,XC862014,test,49,0:05,B,creativecommons.org/licenses/by-nc-sa/4.0/,Dany Sloan,United States,2023-05-09
+OVEN,Seiurus aurocapilla,XC188822,test,50,1:48,A,creativecommons.org/licenses/by-nc-sa/4.0/,Richard E. Webster,Canada,2014-06-15
+OVEN,Seiurus aurocapilla,XC320036,test,51,0:06,B,creativecommons.org/licenses/by-nc-sa/4.0/,Sue Riffe,United States,2016-05-30
+OVEN,Seiurus aurocapilla,XC229636,test,52,0:25,B,creativecommons.org/licenses/by-nc-nd/4.0/,Peter Boesman,United States,1999-04-24
+OVEN,Seiurus aurocapilla,XC1013781,test,53,0:06,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-26
+OVEN,Seiurus aurocapilla,XC502057,test,54,0:17,A,creativecommons.org/licenses/by-nc-sa/4.0/,JL Guerra,Cuba,2019-09-21
+OVEN,Seiurus aurocapilla,XC1044673,test,55,0:07,B,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Driver,United States,2025-08-30
+OVEN,Seiurus aurocapilla,XC415437,test,56,0:30,A,creativecommons.org/licenses/by-nc-sa/4.0/,Étienne Leroy,United States,2018-05-06
+OVEN,Seiurus aurocapilla,XC294010,test,57,2:28,B,creativecommons.org/licenses/by-nc-sa/4.0/,Martin St-Michel,Canada,2015-07-05
+OVEN,Seiurus aurocapilla,XC325221,test,58,0:46,B,creativecommons.org/licenses/by-nc-sa/4.0/,Antonio Xeira,United States,2015-04-25
+OVEN,Seiurus aurocapilla,XC1013787,test,59,1:24,A,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-26
+COYE,Geothlypis trichas,XC483964,train,0,0:08,A,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Marvin,United States,2019-06-26
+COYE,Geothlypis trichas,XC618354,train,1,0:12,B,creativecommons.org/licenses/by-nc-sa/4.0/,Richard E. Webster,United States,2020-05-15
+COYE,Geothlypis trichas,XC466443,train,2,1:51,B,creativecommons.org/licenses/by-nc-sa/4.0/,Richard E. Webster,Mexico,2019-02-22
+COYE,Geothlypis trichas,XC416812,train,3,0:34,A,creativecommons.org/licenses/by-nc-sa/4.0/,Manuel Grosselet,Mexico,2018-05-24
+COYE,Geothlypis trichas,XC157681,train,4,0:23,C,creativecommons.org/licenses/by-nc-sa/3.0/,Ian Cruickshank,Canada,2011-05-08
+COYE,Geothlypis trichas,XC828480,train,5,3:17,A,creativecommons.org/licenses/by-nc-sa/4.0/,Richard E. Webster,United States,2023-05-08
+COYE,Geothlypis trichas,XC133797,train,6,0:26,C,creativecommons.org/licenses/by-nc-sa/3.0/,Daniel Parker,United States,2013-05-16
+COYE,Geothlypis trichas,XC618352,train,7,0:56,B,creativecommons.org/licenses/by-nc-sa/4.0/,Richard E. Webster,United States,2020-03-07
+COYE,Geothlypis trichas,XC115656,train,8,0:16,C,creativecommons.org/licenses/by-nc-sa/3.0/,Ian Cruickshank,Canada,2012-12-23
+COYE,Geothlypis trichas,XC183059,train,9,0:18,A,creativecommons.org/licenses/by-nc-sa/4.0/,Jim Berry,United States,2014-06-21
+COYE,Geothlypis trichas,XC17139,train,10,0:16,C,creativecommons.org/licenses/by-nc-sa/3.0/,Allen T. Chartier,United States,2007-07-06
+COYE,Geothlypis trichas,XC1136857,train,11,0:28,C,creativecommons.org/licenses/by-nc-sa/4.0/,Ed Pandolfino,United States,2021-05-21
+COYE,Geothlypis trichas,XC1021801,train,12,0:09,C,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-29
+COYE,Geothlypis trichas,XC1107591,train,13,0:08,B,creativecommons.org/licenses/by-nc-sa/4.0/,Jeff Stewart,Canada,2026-05-10
+COYE,Geothlypis trichas,XC127495,train,14,0:13,A,creativecommons.org/licenses/by-nc-sa/3.0/,Manuel Grosselet,Mexico,2013-03-27
+COYE,Geothlypis trichas,XC385275,train,15,0:27,B,creativecommons.org/licenses/by-nc-sa/4.0/,Matt Wistrand,United States,2017-08-30
+COYE,Geothlypis trichas,XC618349,train,16,2:27,B,creativecommons.org/licenses/by-nc-sa/4.0/,Richard E. Webster,United States,2020-04-29
+COYE,Geothlypis trichas,XC1155446,train,17,2:56,A,creativecommons.org/licenses/by-nc-sa/4.0/,Greg Irving,United States,2026-07-09
+COYE,Geothlypis trichas,XC159125,train,18,1:01,B,creativecommons.org/licenses/by-nc-nd/3.0/,Ian Cruickshank,Canada,2012-08-05
+COYE,Geothlypis trichas,XC452752,train,19,0:57,A,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Marvin,United States,2017-12-18
+COYE,Geothlypis trichas,XC1046929,train,20,1:46,B,creativecommons.org/licenses/by-nc-sa/4.0/,Greg Irving,United States,2025-10-08
+COYE,Geothlypis trichas,XC166594,train,21,0:19,B,creativecommons.org/licenses/by-nc-sa/3.0/,Micah Riegner,Mexico,2014-02-01
+COYE,Geothlypis trichas,XC618350,train,22,2:19,B,creativecommons.org/licenses/by-nc-sa/4.0/,Richard E. Webster,United States,2020-05-31
+COYE,Geothlypis trichas,XC727742,train,23,1:00,A,creativecommons.org/licenses/by-nc-sa/4.0/,Barry Edmonston,Canada,2022-05-20
+COYE,Geothlypis trichas,XC676560,train,24,0:11,B,creativecommons.org/licenses/by-nc-sa/4.0/,Phoebe Barnes,United States,2021-08-29
+COYE,Geothlypis trichas,XC223421,train,25,0:31,A,creativecommons.org/licenses/by-nc-nd/4.0/,Peter Boesman,United States,1998-04-10
+COYE,Geothlypis trichas,XC142481,train,26,1:59,B,creativecommons.org/licenses/by-nc-sa/3.0/,Amy Davis,United States,2013-07-13
+COYE,Geothlypis trichas,XC1029614,train,27,1:16,B,creativecommons.org/licenses/by-nc-sa/4.0/,Manuel Grosselet,Mexico,2025-08-16
+COYE,Geothlypis trichas,XC1022516,train,28,0:12,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-30
+COYE,Geothlypis trichas,XC478656,train,29,0:30,A,creativecommons.org/licenses/by-nc-sa/4.0/,William Whitehead,United States,2019-06-04
+COYE,Geothlypis trichas,XC420875,train,30,0:33,B,creativecommons.org/licenses/by-nc-sa/4.0/,GABRIEL LEITE,United States,2018-06-14
+COYE,Geothlypis trichas,XC195211,train,31,0:21,B,creativecommons.org/licenses/by-nc-sa/4.0/,Richard E. Webster,Canada,2014-06-24
+COYE,Geothlypis trichas,XC480051,train,32,1:25,A,creativecommons.org/licenses/by-nc-sa/4.0/,Matt Wistrand,United States,2019-06-07
+COYE,Geothlypis trichas,XC323224,train,33,0:38,A,creativecommons.org/licenses/by-nc-sa/4.0/,Nick Komar,United States,2016-06-19
+COYE,Geothlypis trichas,XC388585,train,34,0:40,B,creativecommons.org/licenses/by-nc-sa/4.0/,Antonio Xeira,United States,2015-05-24
+COYE,Geothlypis trichas,XC101261,train,35,0:13,B,creativecommons.org/licenses/by-nc-nd/2.5/,Mike Nelson,United States,2012-05-16
+COYE,Geothlypis trichas,XC416813,val,36,0:39,A,creativecommons.org/licenses/by-nc-sa/4.0/,Manuel Grosselet,Mexico,2018-05-24
+COYE,Geothlypis trichas,XC449574,val,37,0:19,B,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Marvin,United States,2018-11-10
+COYE,Geothlypis trichas,XC335700,val,38,2:09,B,creativecommons.org/licenses/by-nc-sa/4.0/,Martin St-Michel,Canada,2016-07-01
+COYE,Geothlypis trichas,XC618356,val,39,2:41,B,creativecommons.org/licenses/by-nc-sa/4.0/,Richard E. Webster,United States,2020-05-15
+COYE,Geothlypis trichas,XC1034905,val,40,0:45,B,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Driver,United States,2025-08-30
+COYE,Geothlypis trichas,XC178598,val,41,2:43,C,creativecommons.org/licenses/by-nc-sa/4.0/,Daniel Parker,United States,2014-05-18
+COYE,Geothlypis trichas,XC574257,val,42,1:47,B,creativecommons.org/licenses/by-nc-sa/4.0/,Ray Cooke,Canada,2020-06-12
+COYE,Geothlypis trichas,XC142626,val,43,1:56,A,creativecommons.org/licenses/by-sa/3.0/,Jonathon Jongsma,United States,2013-07-13
+COYE,Geothlypis trichas,XC563729,val,44,0:57,B,creativecommons.org/licenses/by-nc-sa/4.0/,Meena Haribal,United States,2020-05-30
+COYE,Geothlypis trichas,XC210548,val,45,2:57,B,creativecommons.org/licenses/by-nc-sa/4.0/,Greg Irving,United States,2014-08-26
+COYE,Geothlypis trichas,XC112583,val,46,0:26,B,creativecommons.org/licenses/by-nc-sa/3.0/,Micah Riegner,United States,2012-09-25
+COYE,Geothlypis trichas,XC758862,val,47,0:09,B,creativecommons.org/licenses/by-nc-sa/4.0/,Jerome Fischer,Switzerland,2022-10-30
+COYE,Geothlypis trichas,XC701252,test,48,2:03,B,creativecommons.org/licenses/by-nc-sa/4.0/,Richard E. Webster,United States,2018-07-14
+COYE,Geothlypis trichas,XC333898,test,49,1:29,B,creativecommons.org/licenses/by-nc-sa/4.0/,James Bradley,Canada,2016-07-20
+COYE,Geothlypis trichas,XC1044625,test,50,0:18,B,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Driver,United States,2025-09-12
+COYE,Geothlypis trichas,XC655932,test,51,0:07,B,creativecommons.org/licenses/by-nc-sa/4.0/,Manuel Grosselet,Mexico,2021-06-11
+COYE,Geothlypis trichas,XC375661,test,52,0:28,C,creativecommons.org/licenses/by-nc-sa/4.0/,John E Abrams,United States,2017-06-15
+COYE,Geothlypis trichas,XC193996,test,53,2:12,C,creativecommons.org/licenses/by-nc-sa/4.0/,Richard E. Webster,United States,2014-06-23
+COYE,Geothlypis trichas,XC1024571,test,54,0:55,B,creativecommons.org/licenses/by-nc-sa/4.0/,Greg Irving,United States,2025-07-30
+COYE,Geothlypis trichas,XC664722,test,55,0:37,A,creativecommons.org/licenses/by-nc-sa/4.0/,Matthew R. Halley,United States,2019-07-14
+COYE,Geothlypis trichas,XC30788,test,56,0:55,A,creativecommons.org/licenses/by-nc-nd/2.5/,Andrew Spencer,United States,2008-06-21
+COYE,Geothlypis trichas,XC985356,test,57,1:00,C,creativecommons.org/licenses/by-nc-sa/4.0/,Ray Cooke,Canada,2021-09-11
+COYE,Geothlypis trichas,XC388731,test,58,0:32,C,creativecommons.org/licenses/by-nc-sa/4.0/,Nick Pulcinella,United States,2017-06-26
+COYE,Geothlypis trichas,XC254334,test,59,0:25,B,creativecommons.org/licenses/by-nc-sa/4.0/,Tom Auer,United States,2015-06-05
+SCTA,Piranga olivacea,XC648449,train,0,1:27,A,creativecommons.org/licenses/by-nc-sa/4.0/,Thomas Ryder Payne,Canada,2018-05-14
+SCTA,Piranga olivacea,XC1013153,train,1,1:07,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-22
+SCTA,Piranga olivacea,XC33591,train,2,0:57,A,creativecommons.org/licenses/by-nc-nd/2.5/,Andrew Spencer,United States,2009-04-25
+SCTA,Piranga olivacea,XC669087,train,3,0:55,B,creativecommons.org/licenses/by-nc-sa/4.0/,Steve Kinsley,Canada,2021-05-22
+SCTA,Piranga olivacea,XC1036515,train,4,0:28,A,creativecommons.org/licenses/by-nc-sa/4.0/,Bobby Wilcox,United States,2025-05-11
+SCTA,Piranga olivacea,XC177093,train,5,0:41,B,creativecommons.org/licenses/by-nc-sa/4.0/,Mike Nelson,United States,2014-05-02
+SCTA,Piranga olivacea,XC179318,train,6,1:33,A,creativecommons.org/licenses/by-nc-sa/4.0/,Martin St-Michel,Canada,2014-05-18
+SCTA,Piranga olivacea,XC771121,train,7,0:10,C,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Driver,United States,2014-05-21
+SCTA,Piranga olivacea,XC378432,train,8,0:34,B,creativecommons.org/licenses/by-nc-sa/4.0/,William Whitehead,United States,2017-07-02
+SCTA,Piranga olivacea,XC180203,train,9,0:40,B,creativecommons.org/licenses/by-nc-sa/4.0/,Jorge de Leon Cardozo,United States,2014-05-30
+SCTA,Piranga olivacea,XC416550,train,10,0:33,C,creativecommons.org/licenses/by-nc-sa/4.0/,Sue Riffe,United States,2018-05-03
+SCTA,Piranga olivacea,XC182156,train,11,0:07,B,creativecommons.org/licenses/by-nc-sa/4.0/,Dylan Pedro,United States,2014-06-16
+SCTA,Piranga olivacea,XC417444,train,12,0:05,B,creativecommons.org/licenses/by-nc-sa/4.0/,Sue Riffe,United States,2018-05-05
+SCTA,Piranga olivacea,XC76680,train,13,0:56,B,creativecommons.org/licenses/by-nc-nd/2.5/,Sander Pieterse & Mike Nelson,United States,2011-04-17
+SCTA,Piranga olivacea,XC144033,train,14,3:55,A,creativecommons.org/licenses/by-nc-sa/3.0/,Laura Gooch,United States,2013-06-28
+SCTA,Piranga olivacea,XC1077608,train,15,1:14,A,creativecommons.org/licenses/by-nc-sa/4.0/,Carlos Delgado JUMABITA,Colombia,2026-01-21
+SCTA,Piranga olivacea,XC179310,train,16,0:38,A,creativecommons.org/licenses/by-nc-sa/4.0/,Martin St-Michel,Canada,2014-05-18
+SCTA,Piranga olivacea,XC375268,train,17,0:27,B,creativecommons.org/licenses/by-nc-sa/4.0/,Susan Hochgraf,United States,2017-05-27
+SCTA,Piranga olivacea,XC812153,train,18,0:19,B,creativecommons.org/licenses/by-nc-sa/4.0/,Scott Gravette,United States,2023-06-22
+SCTA,Piranga olivacea,XC216610,train,19,0:17,B,creativecommons.org/licenses/by-nc-sa/4.0/,Cedric MROCZKO,Ecuador,2015-02-11
+SCTA,Piranga olivacea,XC997659,train,20,2:32,A,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Driver,United States,2025-05-12
+SCTA,Piranga olivacea,XC893925,train,21,0:18,B,creativecommons.org/licenses/by-nc-sa/4.0/,Brian Henderson,United States,2023-09-01
+SCTA,Piranga olivacea,XC880476,train,22,1:05,B,creativecommons.org/licenses/by-nc-sa/4.0/,András Schmidt,United States,2011-08-16
+SCTA,Piranga olivacea,XC54419,train,23,0:33,B,creativecommons.org/licenses/by-nc-sa/3.0/,Mike Nelson,United States,2009-06-07
+SCTA,Piranga olivacea,XC472215,train,24,0:07,C,creativecommons.org/licenses/by-nc-sa/4.0/,William Whitehead,United States,2019-05-09
+SCTA,Piranga olivacea,XC373063,train,25,0:23,C,creativecommons.org/licenses/by-nc-sa/4.0/,Ken Blankenship,United States,2017-05-25
+SCTA,Piranga olivacea,XC285066,train,26,2:11,A,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Marvin,United States,2015-06-09
+SCTA,Piranga olivacea,XC377728,train,27,0:28,A,creativecommons.org/licenses/by-nc-sa/4.0/,William Whitehead,United States,2017-06-28
+SCTA,Piranga olivacea,XC177102,train,28,0:40,B,creativecommons.org/licenses/by-nc-sa/4.0/,Mike Nelson,United States,2014-05-04
+SCTA,Piranga olivacea,XC422017,train,29,4:10,A,creativecommons.org/licenses/by-nc-sa/4.0/,Matt Wistrand,United States,2018-06-23
+SCTA,Piranga olivacea,XC82118,train,30,0:25,B,creativecommons.org/licenses/by-nc-nd/2.5/,Mike Nelson,United States,2011-06-29
+SCTA,Piranga olivacea,XC480573,train,31,0:27,C,creativecommons.org/licenses/by-nc-sa/4.0/,Wesley Rajaleelan,Canada,2019-06-09
+SCTA,Piranga olivacea,XC192716,train,32,0:39,B,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Marvin,United States,2011-05-20
+SCTA,Piranga olivacea,XC244576,train,33,1:08,B,creativecommons.org/licenses/by-nc-sa/4.0/,Daniel Parker,United States,2015-05-18
+SCTA,Piranga olivacea,XC125239,train,34,0:18,C,creativecommons.org/licenses/by-nc-sa/3.0/,Thomas G. Graves,United States,1999-04-25
+SCTA,Piranga olivacea,XC21057,train,35,0:14,A,creativecommons.org/licenses/by-nc-nd/2.5/,Andrew Spencer,United States,2008-06-11
+SCTA,Piranga olivacea,XC904290,val,36,0:23,B,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Driver,United States,2024-05-13
+SCTA,Piranga olivacea,XC486221,val,37,0:17,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stephen Chase,Canada,2019-07-07
+SCTA,Piranga olivacea,XC495603,val,38,0:28,B,creativecommons.org/licenses/by-nc-sa/4.0/,William Whitehead,United States,2019-09-02
+SCTA,Piranga olivacea,XC192712,val,39,0:17,A,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Marvin,United States,2011-05-26
+SCTA,Piranga olivacea,XC564490,val,40,2:34,B,creativecommons.org/licenses/by-nc-sa/4.0/,Michael Hurben,United States,2020-06-02
+SCTA,Piranga olivacea,XC181787,val,41,2:26,B,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Driver,United States,2014-05-29
+SCTA,Piranga olivacea,XC79475,val,42,1:18,B,creativecommons.org/licenses/by-nc-nd/2.5/,Mike Nelson,United States,2011-05-29
+SCTA,Piranga olivacea,XC69927,val,43,1:59,B,creativecommons.org/licenses/by-nc-nd/2.5/,Paul Driver,United States,2009-06-18
+SCTA,Piranga olivacea,XC70438,val,44,0:20,C,creativecommons.org/licenses/by-nc-nd/2.5/,Paul Driver,United States,2010-08-05
+SCTA,Piranga olivacea,XC862216,val,45,1:27,B,creativecommons.org/licenses/by-nc-sa/4.0/,Percy Ulsamer,United States,2023-06-18
+SCTA,Piranga olivacea,XC101746,val,46,0:14,B,creativecommons.org/licenses/by-nc-nd/2.5/,Mike Nelson,United States,2012-05-20
+SCTA,Piranga olivacea,XC599850,val,47,1:10,A,creativecommons.org/licenses/by-nc-sa/4.0/,Christopher McPherson,United States,2019-06-08
+SCTA,Piranga olivacea,XC420841,test,48,0:59,A,creativecommons.org/licenses/by-nc-sa/4.0/,Meena Haribal,United States,2018-06-17
+SCTA,Piranga olivacea,XC20432,test,49,0:42,A,creativecommons.org/licenses/by-nc-nd/2.5/,Chris Parrish,United States,2008-05-05
+SCTA,Piranga olivacea,XC561387,test,50,0:52,A,creativecommons.org/licenses/by-nc-sa/4.0/,Meena Haribal,United States,2020-05-22
+SCTA,Piranga olivacea,XC551316,test,51,0:42,A,creativecommons.org/licenses/by-nc-sa/4.0/,Russ Wigh,United States,2020-04-24
+SCTA,Piranga olivacea,XC1012620,test,52,0:10,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-18
+SCTA,Piranga olivacea,XC840198,test,53,0:29,A,creativecommons.org/licenses/by-nc-nd/4.0/,Manuel Oudard,Canada,2023-05-22
+SCTA,Piranga olivacea,XC13694,test,54,0:48,A,creativecommons.org/licenses/by-nc-nd/2.5/,Chris Parrish,United States,2007-06-05
+SCTA,Piranga olivacea,XC276994,test,55,0:58,C,creativecommons.org/licenses/by-nc-sa/4.0/,Bobby Wilcox,United States,2015-08-22
+SCTA,Piranga olivacea,XC135698,test,56,0:09,B,creativecommons.org/licenses/by-nc-sa/3.0/,Mike Nelson,United States,2013-05-23
+SCTA,Piranga olivacea,XC103755,test,57,0:14,C,creativecommons.org/licenses/by-nc-nd/2.5/,Mike Nelson,United States,2012-06-13
+SCTA,Piranga olivacea,XC257145,test,58,0:29,B,creativecommons.org/licenses/by-nc-sa/4.0/,Daniel F. Lane,United States,1991-05-00
+SCTA,Piranga olivacea,XC476090,test,59,0:07,B,creativecommons.org/licenses/by-nc-sa/4.0/,Eric Matthews,United States,2019-05-21
+BLJA,Cyanocitta cristata,XC636414,train,0,0:26,B,creativecommons.org/licenses/by-nc-sa/4.0/,Thomas Ryder Payne,Canada,2019-04-12
+BLJA,Cyanocitta cristata,XC1084131,train,1,1:13,B,creativecommons.org/licenses/by-nc-sa/4.0/,Ray Cooke,Canada,2020-06-28
+BLJA,Cyanocitta cristata,XC86756,train,2,0:37,A,creativecommons.org/licenses/by-sa/3.0/,Jonathon Jongsma,United States,2011-08-28
+BLJA,Cyanocitta cristata,XC108404,train,3,0:11,B,creativecommons.org/licenses/by-sa/3.0/,Jonathon Jongsma,United States,2012-08-18
+BLJA,Cyanocitta cristata,XC1020599,train,4,1:53,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-06-04
+BLJA,Cyanocitta cristata,XC168093,train,5,0:09,B,creativecommons.org/licenses/by-nc-sa/3.0/,Paul Driver,United States,2012-04-07
+BLJA,Cyanocitta cristata,XC175223,train,6,0:12,A,creativecommons.org/licenses/by-sa/4.0/,Jonathon Jongsma,United States,2014-04-18
+BLJA,Cyanocitta cristata,XC321552,train,7,0:06,A,creativecommons.org/licenses/by-nc-sa/4.0/,Nick Komar,United States,2016-06-13
+BLJA,Cyanocitta cristata,XC168082,train,8,0:08,A,creativecommons.org/licenses/by-nc-sa/3.0/,Paul Driver,United States,2012-05-24
+BLJA,Cyanocitta cristata,XC391728,train,9,0:07,B,creativecommons.org/licenses/by-nc-sa/4.0/,Randy Dzenkiw,Canada,2017-11-04
+BLJA,Cyanocitta cristata,XC796518,train,10,0:06,C,creativecommons.org/licenses/by-nc-sa/4.0/,Thomas Magarian,United States,2022-07-29
+BLJA,Cyanocitta cristata,XC932913,train,11,1:23,B,creativecommons.org/licenses/by-nc-sa/4.0/,Denis Provencher,Canada,2024-09-06
+BLJA,Cyanocitta cristata,XC1087207,train,12,0:07,B,creativecommons.org/licenses/by-nc-sa/4.0/,David A. Brinkman,United States,2026-02-27
+BLJA,Cyanocitta cristata,XC1058582,train,13,1:35,C,creativecommons.org/licenses/by-nc-sa/4.0/,Ray Cooke,Canada,2021-09-17
+BLJA,Cyanocitta cristata,XC319275,train,14,0:38,C,creativecommons.org/licenses/by-nc-sa/4.0/,emganin,United States,2016-05-30
+BLJA,Cyanocitta cristata,XC721247,train,15,0:38,A,creativecommons.org/licenses/by-nc-sa/4.0/,Thomas Ryder Payne,Canada,2021-09-13
+BLJA,Cyanocitta cristata,XC67162,train,16,0:22,A,creativecommons.org/licenses/by-nc-sa/3.0/,Daniel Lane,United States,1983-03-00
+BLJA,Cyanocitta cristata,XC421264,train,17,0:33,A,creativecommons.org/licenses/by-nc-sa/4.0/,GABRIEL LEITE,United States,2018-06-13
+BLJA,Cyanocitta cristata,XC833220,train,18,0:20,B,creativecommons.org/licenses/by-nc-sa/4.0/,zp2018@nyu.edu,United States,2023-10-02
+BLJA,Cyanocitta cristata,XC935607,train,19,0:19,A,creativecommons.org/licenses/by-sa/4.0/,Doug Hynes,Canada,2011-03-11
+BLJA,Cyanocitta cristata,XC32024,train,20,0:25,A,creativecommons.org/licenses/by-nc-sa/3.0/,Nick Athanas,United States,2000-11-01
+BLJA,Cyanocitta cristata,XC1014206,train,21,0:54,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-29
+BLJA,Cyanocitta cristata,XC672969,train,22,0:13,B,creativecommons.org/licenses/by-nc-sa/4.0/,David A. Brinkman,United States,2021-09-07
+BLJA,Cyanocitta cristata,XC1014995,train,23,0:12,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-06-06
+BLJA,Cyanocitta cristata,XC1020596,train,24,0:46,A,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-22
+BLJA,Cyanocitta cristata,XC306355,train,25,0:31,C,creativecommons.org/licenses/by-nc-sa/4.0/,Patrick Turgeon,Canada,2016-03-08
+BLJA,Cyanocitta cristata,XC1010650,train,26,0:35,A,creativecommons.org/licenses/by-nc-sa/4.0/,Rory Nefdt,United States,2025-06-28
+BLJA,Cyanocitta cristata,XC1038681,train,27,0:52,B,creativecommons.org/licenses/by-nc-sa/4.0/,Greg Irving,United States,2025-08-16
+BLJA,Cyanocitta cristata,XC165396,train,28,0:23,B,creativecommons.org/licenses/by-nc-sa/3.0/,Ted Floyd,United States,2014-01-24
+BLJA,Cyanocitta cristata,XC278597,train,29,1:24,C,creativecommons.org/licenses/by-nc-sa/4.0/,Bobby Wilcox,United States,2015-09-08
+BLJA,Cyanocitta cristata,XC44106,train,30,0:27,A,creativecommons.org/licenses/by-nc-nd/2.5/,Todd Wilson,United States,2010-02-07
+BLJA,Cyanocitta cristata,XC579402,train,31,0:33,B,creativecommons.org/licenses/by-nc-sa/4.0/,Bobby Wilcox,United States,2020-07-26
+BLJA,Cyanocitta cristata,XC72751,train,32,0:21,C,creativecommons.org/licenses/by-nc-nd/2.5/,Ezekiel S. Jakub,United States,2011-03-00
+BLJA,Cyanocitta cristata,XC1038678,train,33,0:36,B,creativecommons.org/licenses/by-nc-sa/4.0/,Greg Irving,United States,2025-08-16
+BLJA,Cyanocitta cristata,XC1038503,train,34,0:32,C,creativecommons.org/licenses/by-nc-sa/4.0/,Greg Irving,United States,2025-08-15
+BLJA,Cyanocitta cristata,XC454294,train,35,0:49,B,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Marvin,United States,2019-01-29
+BLJA,Cyanocitta cristata,XC1022457,val,36,2:07,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-29
+BLJA,Cyanocitta cristata,XC1060246,val,37,0:22,C,creativecommons.org/licenses/by-nc-sa/4.0/,Bram Piot,Canada,2025-11-15
+BLJA,Cyanocitta cristata,XC144383,val,38,1:11,C,creativecommons.org/licenses/by-nc-sa/3.0/,The_Germ,Canada,2013-08-05
+BLJA,Cyanocitta cristata,XC173281,val,39,0:30,B,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Marvin,United States,2014-03-10
+BLJA,Cyanocitta cristata,XC296398,val,40,1:17,A,creativecommons.org/licenses/by-nc-sa/4.0/,Nick Komar,United States,2015-12-19
+BLJA,Cyanocitta cristata,XC990676,val,41,1:48,B,creativecommons.org/licenses/by-nc-sa/4.0/,Ray Cooke,Canada,2020-08-15
+BLJA,Cyanocitta cristata,XC1022458,val,42,0:16,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-29
+BLJA,Cyanocitta cristata,XC574496,val,43,0:23,B,creativecommons.org/licenses/by-nc-sa/4.0/,Adam Sell,United States,2020-07-07
+BLJA,Cyanocitta cristata,XC1012554,val,44,0:19,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-18
+BLJA,Cyanocitta cristata,XC110056,val,45,1:22,B,creativecommons.org/licenses/by-nc-sa/3.0/,Mike Nelson,United States,2012-09-19
+BLJA,Cyanocitta cristata,XC586549,val,46,1:00,A,creativecommons.org/licenses/by-nc-sa/4.0/,Brian Hendrix,United States,2020-09-04
+BLJA,Cyanocitta cristata,XC168079,val,47,0:11,B,creativecommons.org/licenses/by-nc-sa/3.0/,Paul Driver,United States,2012-11-11
+BLJA,Cyanocitta cristata,XC205522,test,48,2:26,A,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Marvin,United States,2014-10-28
+BLJA,Cyanocitta cristata,XC201619,test,49,0:07,B,creativecommons.org/licenses/by-nc-sa/4.0/,Jack Hurd,United States,2014-11-06
+BLJA,Cyanocitta cristata,XC381585,test,50,0:09,A,creativecommons.org/licenses/by-nc-sa/4.0/,Sue Riffe,United States,2017-06-07
+BLJA,Cyanocitta cristata,XC796520,test,51,0:17,C,creativecommons.org/licenses/by-nc-sa/4.0/,Thomas Magarian,United States,2022-07-29
+BLJA,Cyanocitta cristata,XC590063,test,52,0:26,C,creativecommons.org/licenses/by-nc-sa/4.0/,James Barnes,United States,2020-09-19
+BLJA,Cyanocitta cristata,XC937346,test,53,1:14,A,creativecommons.org/licenses/by-nc-sa/4.0/,Manuel Grosselet,Canada,2024-09-26
+BLJA,Cyanocitta cristata,XC475010,test,54,0:30,B,creativecommons.org/licenses/by-nc-sa/4.0/,Bobby Wilcox,United States,2019-04-05
+BLJA,Cyanocitta cristata,XC239860,test,55,0:16,B,creativecommons.org/licenses/by-nc-sa/4.0/,Iain,Canada,2015-05-04
+BLJA,Cyanocitta cristata,XC1020600,test,56,2:21,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-06-06
+BLJA,Cyanocitta cristata,XC176358,test,57,0:41,A,creativecommons.org/licenses/by-nc-sa/4.0/,Jorge de Leon Cardozo,United States,2014-04-25
+BLJA,Cyanocitta cristata,XC321909,test,58,0:36,C,creativecommons.org/licenses/by-nc-sa/4.0/,Bobby Wilcox,United States,2016-06-03
+BLJA,Cyanocitta cristata,XC163419,test,59,1:10,B,creativecommons.org/licenses/by-nc-sa/3.0/,Daniel Parker,United States,2010-07-19
+BAWW,Mniotilta varia,XC1014375,train,0,0:44,A,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-30
+BAWW,Mniotilta varia,XC1013139,train,1,0:53,A,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-22
+BAWW,Mniotilta varia,XC1022658,train,2,2:21,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-27
+BAWW,Mniotilta varia,XC1014132,train,3,0:37,A,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-28
+BAWW,Mniotilta varia,XC557107,train,4,0:54,A,creativecommons.org/licenses/by-nc-sa/4.0/,Christopher Moser-Purdy,Canada,2020-05-07
+BAWW,Mniotilta varia,XC13763,train,5,0:58,A,creativecommons.org/licenses/by-nc-nd/2.5/,Andrew Spencer,United States,2007-06-14
+BAWW,Mniotilta varia,XC1013140,train,6,3:37,A,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-22
+BAWW,Mniotilta varia,XC137044,train,7,0:16,B,creativecommons.org/licenses/by-nc-sa/3.0/,Mike Nelson,United States,2013-06-04
+BAWW,Mniotilta varia,XC662733,train,8,0:12,B,creativecommons.org/licenses/by-nc-sa/4.0/,Rinse van der Vliet,Iceland,2021-06-18
+BAWW,Mniotilta varia,XC133253,train,9,0:55,B,creativecommons.org/licenses/by-nc-nd/3.0/,Fernand DEROUSSEN,Canada,2008-06-08
+BAWW,Mniotilta varia,XC999812,train,10,0:32,B,creativecommons.org/licenses/by-nc-sa/4.0/,Rory Nefdt,United States,2025-05-19
+BAWW,Mniotilta varia,XC836463,train,11,0:30,B,creativecommons.org/licenses/by-nc-sa/4.0/,Bobby Wilcox,United States,2023-10-17
+BAWW,Mniotilta varia,XC922731,train,12,0:41,C,creativecommons.org/licenses/by-nc-sa/4.0/,Ray Cooke,Canada,2024-05-25
+BAWW,Mniotilta varia,XC78654,train,13,0:57,B,creativecommons.org/licenses/by-nc-nd/2.5/,Mike Nelson,United States,2011-05-25
+BAWW,Mniotilta varia,XC79611,train,14,0:28,A,creativecommons.org/licenses/by-nc-nd/2.5/,Andrew Spencer,United States,2011-05-29
+BAWW,Mniotilta varia,XC188511,train,15,0:58,B,creativecommons.org/licenses/by-nc-sa/4.0/,Richard E. Webster,Canada,2014-06-14
+BAWW,Mniotilta varia,XC642586,train,16,0:14,B,creativecommons.org/licenses/by-nc-sa/4.0/,Daniel Errichetti,United States,2019-03-24
+BAWW,Mniotilta varia,XC1022641,train,17,2:14,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-29
+BAWW,Mniotilta varia,XC691571,train,18,1:33,B,creativecommons.org/licenses/by-sa/4.0/,Andres Felipe Espinosa,Colombia,2021-12-14
+BAWW,Mniotilta varia,XC103498,train,19,0:20,A,creativecommons.org/licenses/by-nc-nd/2.5/,Andrew Spencer,United States,2012-06-06
+BAWW,Mniotilta varia,XC83522,train,20,0:10,A,creativecommons.org/licenses/by-nc-nd/2.5/,Jelmer Poelstra,United States,2008-04-28
+BAWW,Mniotilta varia,XC76698,train,21,1:57,B,creativecommons.org/licenses/by-nc-nd/2.5/,Sander Pieterse,United States,2011-04-18
+BAWW,Mniotilta varia,XC924063,train,22,1:34,B,creativecommons.org/licenses/by-nc-sa/4.0/,Ray Cooke,Canada,2024-06-22
+BAWW,Mniotilta varia,XC1022652,train,23,0:35,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-29
+BAWW,Mniotilta varia,XC1013796,train,24,0:05,A,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-26
+BAWW,Mniotilta varia,XC690968,train,25,0:45,B,creativecommons.org/licenses/by-nc-sa/4.0/,Christopher McPherson,United States,2021-04-21
+BAWW,Mniotilta varia,XC1022660,train,26,2:25,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-28
+BAWW,Mniotilta varia,XC1012513,train,27,0:59,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-18
+BAWW,Mniotilta varia,XC980367,train,28,0:36,B,creativecommons.org/licenses/by-nc-sa/4.0/,Ray Cooke,Canada,2021-07-11
+BAWW,Mniotilta varia,XC1014373,train,29,0:27,A,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-30
+BAWW,Mniotilta varia,XC1021869,train,30,1:44,C,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-31
+BAWW,Mniotilta varia,XC1013135,train,31,1:13,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-22
+BAWW,Mniotilta varia,XC100188,train,32,0:13,B,creativecommons.org/licenses/by-nc-nd/2.5/,Mike Nelson,United States,2012-05-02
+BAWW,Mniotilta varia,XC1013794,train,33,0:24,A,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-26
+BAWW,Mniotilta varia,XC344796,train,34,0:26,C,creativecommons.org/licenses/by-nc-sa/4.0/,Uriel Mtnez,Mexico,2016-11-29
+BAWW,Mniotilta varia,XC177837,train,35,1:15,C,creativecommons.org/licenses/by-nc-sa/4.0/,Daniel Parker,United States,2014-05-10
+BAWW,Mniotilta varia,XC103262,val,36,0:10,B,creativecommons.org/licenses/by-nc-nd/2.5/,Mike Nelson,United States,2012-06-04
+BAWW,Mniotilta varia,XC232756,val,37,0:12,B,creativecommons.org/licenses/by-nc-nd/4.0/,Peter Boesman,Venezuela,1997-12-22
+BAWW,Mniotilta varia,XC232760,val,38,0:14,B,creativecommons.org/licenses/by-nc-nd/4.0/,Peter Boesman,United States,1999-04-25
+BAWW,Mniotilta varia,XC144696,val,39,1:27,B,creativecommons.org/licenses/by-nc-sa/3.0/,Paul Driver,United States,2013-07-14
+BAWW,Mniotilta varia,XC154082,val,40,6:06,A,creativecommons.org/licenses/by-nc-sa/3.0/,Marcelo Araya-Salas,Costa Rica,2008-12-06
+BAWW,Mniotilta varia,XC232757,val,41,0:14,B,creativecommons.org/licenses/by-nc-nd/4.0/,Peter Boesman,Mexico,1998-11-19
+BAWW,Mniotilta varia,XC455552,val,42,0:18,A,creativecommons.org/licenses/by-nc-nd/4.0/,Antonio Xeira,United States,2016-05-12
+BAWW,Mniotilta varia,XC137040,val,43,0:51,B,creativecommons.org/licenses/by-nc-sa/3.0/,Mike Nelson,United States,2013-06-04
+BAWW,Mniotilta varia,XC198399,val,44,1:00,B,creativecommons.org/licenses/by-nc-sa/4.0/,Guillermo Funes,El Salvador,2013-01-30
+BAWW,Mniotilta varia,XC315201,val,45,0:13,C,creativecommons.org/licenses/by-nc-sa/4.0/,Matt Wistrand,United States,2016-05-04
+BAWW,Mniotilta varia,XC1013903,val,46,0:06,A,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-27
+BAWW,Mniotilta varia,XC213571,val,47,0:06,B,creativecommons.org/licenses/by-nc-sa/4.0/,Oscar Ballesteors,United States,2010-05-23
+BAWW,Mniotilta varia,XC160574,test,48,0:12,C,creativecommons.org/licenses/by-nc-nd/3.0/,Ian Cruickshank,Canada,2013-05-25
+BAWW,Mniotilta varia,XC1022650,test,49,0:41,C,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-29
+BAWW,Mniotilta varia,XC827734,test,50,1:50,B,creativecommons.org/licenses/by-nc-sa/4.0/,Richard E. Webster,United States,2023-05-13
+BAWW,Mniotilta varia,XC626753,test,51,1:06,B,creativecommons.org/licenses/by-nc-sa/4.0/,Sue Riffe,United States,2017-06-09
+BAWW,Mniotilta varia,XC1022648,test,52,0:50,C,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-29
+BAWW,Mniotilta varia,XC1012511,test,53,0:11,A,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-18
+BAWW,Mniotilta varia,XC862538,test,54,0:44,B,creativecommons.org/licenses/by-nc-sa/4.0/,Percy Ulsamer,United States,2023-04-29
+BAWW,Mniotilta varia,XC1037287,test,55,0:38,B,creativecommons.org/licenses/by-nc-sa/4.0/,Bobby Wilcox,United States,2025-06-15
+BAWW,Mniotilta varia,XC571804,test,56,0:15,B,creativecommons.org/licenses/by-nc-sa/4.0/,William Whitehead,United States,2020-06-21
+BAWW,Mniotilta varia,XC712834,test,57,0:34,B,creativecommons.org/licenses/by-nc-sa/4.0/,Alexis Bukowski,Spain,2022-04-02
+BAWW,Mniotilta varia,XC1022657,test,58,0:31,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-29
+BAWW,Mniotilta varia,XC1175241,test,59,0:06,B,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Driver,United States,2026-08-31
+BHCO,Molothrus ater,XC815107,train,0,0:12,B,creativecommons.org/licenses/by-nc-sa/4.0/,Richard E. Webster,United States,2023-05-18
+BHCO,Molothrus ater,XC187980,train,1,0:18,B,creativecommons.org/licenses/by-nc-sa/4.0/,Phoenix Birder,United States,2014-07-19
+BHCO,Molothrus ater,XC440572,train,2,0:10,B,creativecommons.org/licenses/by-nc-sa/4.0/,Richard E. Webster,Mexico,2018-05-15
+BHCO,Molothrus ater,XC502506,train,3,1:50,B,creativecommons.org/licenses/by-nc-sa/4.0/,Richard E. Webster,Mexico,2019-07-23
+BHCO,Molothrus ater,XC511208,train,4,0:12,B,creativecommons.org/licenses/by-nc-sa/4.0/,Bobby Wilcox,United States,2019-07-21
+BHCO,Molothrus ater,XC1039613,train,5,0:30,A,creativecommons.org/licenses/by-nc-nd/4.0/,Thomas Magarian,United States,2025-01-14
+BHCO,Molothrus ater,XC82044,train,6,0:56,A,creativecommons.org/licenses/by-nc-nd/2.5/,Ryan P. O'Donnell,United States,2011-06-23
+BHCO,Molothrus ater,XC160604,train,7,0:16,B,creativecommons.org/licenses/by-nc-nd/3.0/,Ian Cruickshank,Canada,2013-05-28
+BHCO,Molothrus ater,XC716120,train,8,0:55,B,creativecommons.org/licenses/by-nc-sa/4.0/,Oveth Fuentes,Mexico,2022-04-17
+BHCO,Molothrus ater,XC624559,train,9,0:18,A,creativecommons.org/licenses/by-nc-sa/4.0/,Thomas Magarian,United States,2020-05-24
+BHCO,Molothrus ater,XC313062,train,10,0:06,A,creativecommons.org/licenses/by-nc-sa/4.0/,Sue Riffe,United States,2016-04-15
+BHCO,Molothrus ater,XC542581,train,11,0:52,A,creativecommons.org/licenses/by-nc-sa/4.0/,Bobby Wilcox,United States,2020-04-06
+BHCO,Molothrus ater,XC824578,train,12,1:04,B,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Driver,United States,2023-08-22
+BHCO,Molothrus ater,XC367805,train,13,0:36,B,creativecommons.org/licenses/by-nc-sa/4.0/,Eric DeFonso,United States,2016-06-01
+BHCO,Molothrus ater,XC232766,train,14,0:37,A,creativecommons.org/licenses/by-nc-nd/4.0/,Peter Boesman,United States,1998-04-10
+BHCO,Molothrus ater,XC502510,train,15,0:08,B,creativecommons.org/licenses/by-nc-sa/4.0/,Richard E. Webster,Mexico,2019-07-28
+BHCO,Molothrus ater,XC196673,train,16,0:42,B,creativecommons.org/licenses/by-nc-sa/4.0/,Elvis Herrera Rodríguez,Mexico,2012-04-23
+BHCO,Molothrus ater,XC1096568,train,17,0:17,A,creativecommons.org/licenses/by-nc-sa/4.0/,Mario Reyes Jr,United States,2026-04-05
+BHCO,Molothrus ater,XC659033,train,18,0:17,B,creativecommons.org/licenses/by-nc-sa/4.0/,Sue Riffe,United States,2021-04-28
+BHCO,Molothrus ater,XC619866,train,19,1:18,A,creativecommons.org/licenses/by-nc-sa/4.0/,Richard E. Webster,United States,2018-06-01
+BHCO,Molothrus ater,XC160734,train,20,0:17,B,creativecommons.org/licenses/by-nc-nd/3.0/,Ian Cruickshank,Canada,2013-06-04
+BHCO,Molothrus ater,XC336249,train,21,0:25,C,creativecommons.org/licenses/by-nc-sa/4.0/,Thomas Magarian,United States,2015-06-03
+BHCO,Molothrus ater,XC102972,train,22,0:14,A,creativecommons.org/licenses/by-sa/3.0/,Jonathon Jongsma,United States,2012-06-01
+BHCO,Molothrus ater,XC160742,train,23,2:03,B,creativecommons.org/licenses/by-nc-nd/3.0/,Ian Cruickshank,Canada,2013-06-04
+BHCO,Molothrus ater,XC645520,train,24,0:09,A,creativecommons.org/licenses/by-nc-sa/4.0/,Bobby Wilcox,United States,2021-05-03
+BHCO,Molothrus ater,XC328540,train,25,0:48,B,creativecommons.org/licenses/by-nc-sa/4.0/,Antonio Xeira,United States,2016-07-08
+BHCO,Molothrus ater,XC572462,train,26,0:06,B,creativecommons.org/licenses/by-nc-sa/4.0/,Isain Contreras Rodríguez,Mexico,2020-06-29
+BHCO,Molothrus ater,XC1020100,train,27,0:54,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2024-05-19
+BHCO,Molothrus ater,XC477807,train,28,1:13,A,creativecommons.org/licenses/by-nc-sa/4.0/,Bobby Wilcox,United States,2019-05-27
+BHCO,Molothrus ater,XC792346,train,29,0:47,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stuart Fisher,United States,2010-06-02
+BHCO,Molothrus ater,XC394737,train,30,0:51,B,creativecommons.org/licenses/by-nc-sa/4.0/,Nick Komar,United States,2017-05-20
+BHCO,Molothrus ater,XC1039581,train,31,2:28,A,creativecommons.org/licenses/by-nc-nd/4.0/,Thomas Magarian,United States,2025-01-14
+BHCO,Molothrus ater,XC160251,train,32,0:22,C,creativecommons.org/licenses/by-nc-nd/3.0/,Ian Cruickshank,Canada,2013-04-30
+BHCO,Molothrus ater,XC721753,train,33,0:16,A,creativecommons.org/licenses/by-nc-sa/4.0/,Jim Berry,United States,2022-05-01
+BHCO,Molothrus ater,XC1004201,train,34,0:12,B,creativecommons.org/licenses/by-nc-sa/4.0/,Thomas Magarian,United States,2025-01-14
+BHCO,Molothrus ater,XC1039585,train,35,1:36,A,creativecommons.org/licenses/by-nc-nd/4.0/,Thomas Magarian,United States,2025-01-14
+BHCO,Molothrus ater,XC781952,val,36,0:44,A,creativecommons.org/licenses/by-nc-sa/4.0/,Matthew L. Brady,United States,2022-05-15
+BHCO,Molothrus ater,XC649386,val,37,0:50,A,creativecommons.org/licenses/by-nc-sa/4.0/,Bobby Wilcox,United States,2021-05-17
+BHCO,Molothrus ater,XC441895,val,38,1:45,B,creativecommons.org/licenses/by-nc-sa/4.0/,Ed Pandolfino,United States,2018-03-25
+BHCO,Molothrus ater,XC160198,val,39,0:30,B,creativecommons.org/licenses/by-nc-nd/3.0/,Ian Cruickshank,Canada,2013-04-23
+BHCO,Molothrus ater,XC131567,val,40,0:27,B,creativecommons.org/licenses/by-nc-sa/3.0/,Eric DeFonso,United States,2012-06-21
+BHCO,Molothrus ater,XC543979,val,41,0:59,A,creativecommons.org/licenses/by-nc-sa/4.0/,William Whitehead,United States,2020-04-10
+BHCO,Molothrus ater,XC160735,val,42,0:14,B,creativecommons.org/licenses/by-nc-nd/3.0/,Ian Cruickshank,Canada,2013-06-04
+BHCO,Molothrus ater,XC645459,val,43,0:24,A,creativecommons.org/licenses/by-nc-sa/4.0/,Bobby Wilcox,United States,2021-04-29
+BHCO,Molothrus ater,XC982250,val,44,0:22,C,creativecommons.org/licenses/by-nc-sa/4.0/,Mario Reyes Jr,United States,2025-03-22
+BHCO,Molothrus ater,XC58472,val,45,1:03,B,creativecommons.org/licenses/by-nc-nd/2.5/,Matthias Feuersenger,United States,2010-06-27
+BHCO,Molothrus ater,XC309998,val,46,0:35,A,creativecommons.org/licenses/by-nc-sa/4.0/,Ross Gallardy,United States,2016-04-01
+BHCO,Molothrus ater,XC160987,val,47,0:43,B,creativecommons.org/licenses/by-nc-sa/3.0/,Paul Marvin,United States,2013-01-22
+BHCO,Molothrus ater,XC580524,test,48,0:31,B,creativecommons.org/licenses/by-nc-sa/4.0/,Richard E. Webster,United States,2020-05-18
+BHCO,Molothrus ater,XC149253,test,49,0:21,B,creativecommons.org/licenses/by-nc-sa/3.0/,Dugan Maynard,Canada,2013-06-18
+BHCO,Molothrus ater,XC184985,test,50,0:38,B,creativecommons.org/licenses/by-nc-sa/4.0/,Tim Marquardt,United States,2014-07-03
+BHCO,Molothrus ater,XC160577,test,51,1:02,B,creativecommons.org/licenses/by-nc-nd/3.0/,Ian Cruickshank,Canada,2013-05-25
+BHCO,Molothrus ater,XC160719,test,52,0:31,B,creativecommons.org/licenses/by-nc-nd/3.0/,Ian Cruickshank,Canada,2013-06-04
+BHCO,Molothrus ater,XC441893,test,53,0:40,B,creativecommons.org/licenses/by-nc-sa/4.0/,Ed Pandolfino,United States,2018-05-06
+BHCO,Molothrus ater,XC160983,test,54,1:32,A,creativecommons.org/licenses/by-nc-sa/3.0/,Paul Marvin,United States,2012-03-14
+BHCO,Molothrus ater,XC326247,test,55,0:14,B,creativecommons.org/licenses/by-nc-sa/4.0/,Nick Komar,United States,2016-06-30
+BHCO,Molothrus ater,XC160791,test,56,0:12,B,creativecommons.org/licenses/by-nc-nd/3.0/,Ian Cruickshank,Canada,2013-06-16
+BHCO,Molothrus ater,XC618033,test,57,0:47,B,creativecommons.org/licenses/by-nc-sa/4.0/,Isain Contreras Rodríguez,Mexico,2021-01-16
+BHCO,Molothrus ater,XC336250,test,58,0:23,C,creativecommons.org/licenses/by-nc-sa/4.0/,Thomas Magarian,United States,2015-06-03
+BHCO,Molothrus ater,XC48157,test,59,0:52,B,creativecommons.org/licenses/by-nc-nd/2.5/,Scott Olmstead,United States,2009-05-05
+BHVI,Vireo solitarius,XC380121,train,0,0:58,B,creativecommons.org/licenses/by-nc-sa/4.0/,Lance A. M. Benner,United States,2017-06-14
+BHVI,Vireo solitarius,XC817320,train,1,2:49,A,creativecommons.org/licenses/by-nc-sa/4.0/,Valerie Heemstra,United States,2023-07-17
+BHVI,Vireo solitarius,XC334790,train,2,0:42,C,creativecommons.org/licenses/by-nc-sa/4.0/,Scott Gravette,United States,2014-03-22
+BHVI,Vireo solitarius,XC89157,train,3,0:20,C,creativecommons.org/licenses/by-nc-nd/2.5/,Mike Nelson,United States,2011-10-05
+BHVI,Vireo solitarius,XC413144,train,4,0:29,A,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Marvin,United States,2018-04-01
+BHVI,Vireo solitarius,XC391438,train,5,0:46,A,creativecommons.org/licenses/by-nc-nd/4.0/,Peter Boesman,United States,2017-10-19
+BHVI,Vireo solitarius,XC922316,train,6,1:43,B,creativecommons.org/licenses/by-nc-sa/4.0/,Ray Cooke,Canada,2024-05-20
+BHVI,Vireo solitarius,XC471023,train,7,4:43,B,creativecommons.org/licenses/by-nc-sa/4.0/,Matt Wistrand,United States,2019-05-06
+BHVI,Vireo solitarius,XC657352,train,8,4:04,A,creativecommons.org/licenses/by-nc-sa/4.0/,Valerie Heemstra,United States,2021-06-17
+BHVI,Vireo solitarius,XC51306,train,9,0:13,A,creativecommons.org/licenses/by-nc-nd/2.5/,Todd Wilson,United States,2010-04-18
+BHVI,Vireo solitarius,XC343888,train,10,0:07,C,creativecommons.org/licenses/by-nc-sa/4.0/,Luis A Villamil,Canada,2016-06-03
+BHVI,Vireo solitarius,XC443899,train,11,0:18,C,creativecommons.org/licenses/by-nc-sa/4.0/,Alfonso Auerbach,Honduras,2018-11-24
+BHVI,Vireo solitarius,XC101956,train,12,0:23,A,creativecommons.org/licenses/by-nc-nd/2.5/,Mike Nelson,United States,2012-05-23
+BHVI,Vireo solitarius,XC985342,train,13,0:52,B,creativecommons.org/licenses/by-nc-sa/4.0/,Ray Cooke,Canada,2021-08-13
+BHVI,Vireo solitarius,XC689023,train,14,0:15,B,creativecommons.org/licenses/by-nc-sa/4.0/,Alfonso Auerbach,Honduras,2021-11-25
+BHVI,Vireo solitarius,XC78810,train,15,0:32,A,creativecommons.org/licenses/by-nc-nd/2.5/,Andrew Spencer,United States,2011-05-26
+BHVI,Vireo solitarius,XC294126,train,16,0:15,A,creativecommons.org/licenses/by-nc-sa/4.0/,Martin St-Michel,Canada,2015-07-25
+BHVI,Vireo solitarius,XC192062,train,17,1:28,C,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Marvin,United States,2014-04-10
+BHVI,Vireo solitarius,XC557529,train,18,3:08,B,creativecommons.org/licenses/by-nc-sa/4.0/,Matt Wistrand,United States,2020-05-12
+BHVI,Vireo solitarius,XC420397,train,19,0:47,A,creativecommons.org/licenses/by-nc-sa/4.0/,Scott Gravette,United States,2018-06-11
+BHVI,Vireo solitarius,XC187606,train,20,0:39,A,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Driver,United States,2014-07-07
+BHVI,Vireo solitarius,XC190934,train,21,0:19,A,creativecommons.org/licenses/by-nc-sa/4.0/,Richard E. Webster,Canada,2014-06-20
+BHVI,Vireo solitarius,XC52988,train,22,0:35,A,creativecommons.org/licenses/by-nc-sa/3.0/,Mike Nelson,United States,2010-05-26
+BHVI,Vireo solitarius,XC911665,train,23,1:35,A,creativecommons.org/licenses/by-nc-sa/4.0/,Jim Berry,United States,2024-06-07
+BHVI,Vireo solitarius,XC291223,train,24,0:25,B,creativecommons.org/licenses/by-nc-sa/4.0/,Matt Brady,United States,2015-11-19
+BHVI,Vireo solitarius,XC103753,train,25,1:04,B,creativecommons.org/licenses/by-nc-nd/2.5/,Mike Nelson,United States,2012-06-13
+BHVI,Vireo solitarius,XC87746,train,26,0:41,B,creativecommons.org/licenses/by-nc-nd/2.5/,Mike Nelson,United States,2011-09-25
+BHVI,Vireo solitarius,XC309996,train,27,0:23,A,creativecommons.org/licenses/by-nc-sa/4.0/,Ross Gallardy,United States,2016-04-01
+BHVI,Vireo solitarius,XC103754,train,28,0:39,B,creativecommons.org/licenses/by-nc-nd/2.5/,Mike Nelson,United States,2012-06-13
+BHVI,Vireo solitarius,XC30944,train,29,1:04,A,creativecommons.org/licenses/by-nc-nd/2.5/,Andrew Spencer,United States,2007-06-11
+BHVI,Vireo solitarius,XC814441,train,30,0:23,A,creativecommons.org/licenses/by-nc-sa/4.0/,Christian Kerihuel,Canada,2023-06-18
+BHVI,Vireo solitarius,XC290148,train,31,0:05,B,creativecommons.org/licenses/by-nc-sa/4.0/,J.R. Rigby,United States,2015-11-15
+BHVI,Vireo solitarius,XC1166527,train,32,1:29,C,creativecommons.org/licenses/by-nc-sa/4.0/,Ray Cooke,Canada,2022-05-23
+BHVI,Vireo solitarius,XC190935,train,33,1:14,A,creativecommons.org/licenses/by-nc-sa/4.0/,Richard E. Webster,Canada,2014-06-20
+BHVI,Vireo solitarius,XC479507,train,34,0:25,B,creativecommons.org/licenses/by-nc-sa/4.0/,Meena Haribal,United States,2019-06-07
+BHVI,Vireo solitarius,XC1013501,train,35,0:08,B,creativecommons.org/licenses/by-nc-sa/4.0/,Stanislas Wroza,Canada,2025-05-25
+BHVI,Vireo solitarius,XC1100174,val,36,0:28,B,creativecommons.org/licenses/by-nc-sa/4.0/,Ray Cooke,Canada,2022-05-13
+BHVI,Vireo solitarius,XC407644,val,37,0:37,B,creativecommons.org/licenses/by-nc-sa/4.0/,Jim Berry,United States,2014-04-25
+BHVI,Vireo solitarius,XC89158,val,38,0:19,B,creativecommons.org/licenses/by-nc-nd/2.5/,Mike Nelson,United States,2011-10-05
+BHVI,Vireo solitarius,XC801175,val,39,1:03,B,creativecommons.org/licenses/by-nc-sa/4.0/,Denis Provencher,Canada,2023-05-11
+BHVI,Vireo solitarius,XC808061,val,40,0:50,B,creativecommons.org/licenses/by-nc-sa/4.0/,Scott Gravette,United States,2023-06-10
+BHVI,Vireo solitarius,XC309323,val,41,0:35,C,creativecommons.org/licenses/by-nc-sa/4.0/,J.R. Rigby,United States,2016-03-28
+BHVI,Vireo solitarius,XC1008370,val,42,0:16,A,creativecommons.org/licenses/by-nc-sa/4.0/,David A. Brinkman,United States,2025-06-10
+BHVI,Vireo solitarius,XC391435,val,43,0:35,B,creativecommons.org/licenses/by-nc-nd/4.0/,Peter Boesman,United States,2017-10-19
+BHVI,Vireo solitarius,XC291224,val,44,0:52,C,creativecommons.org/licenses/by-nc-sa/4.0/,Matt Brady,United States,2015-11-19
+BHVI,Vireo solitarius,XC499154,val,45,1:15,C,creativecommons.org/licenses/by-nc-sa/4.0/,Bobby Wilcox,United States,2019-09-23
+BHVI,Vireo solitarius,XC502313,val,46,0:58,A,creativecommons.org/licenses/by-nc-sa/4.0/,Max Noack,Guatemala,2016-12-04
+BHVI,Vireo solitarius,XC103752,val,47,0:15,C,creativecommons.org/licenses/by-nc-nd/2.5/,Mike Nelson,United States,2012-06-13
+BHVI,Vireo solitarius,XC309321,test,48,0:52,B,creativecommons.org/licenses/by-nc-sa/4.0/,J.R. Rigby,United States,2016-03-28
+BHVI,Vireo solitarius,XC1089336,test,49,0:35,A,creativecommons.org/licenses/by-sa/4.0/,steve,United States,2026-03-19
+BHVI,Vireo solitarius,XC319372,test,50,1:03,B,creativecommons.org/licenses/by-nc-sa/4.0/,Martin St-Michel,Canada,2016-05-22
+BHVI,Vireo solitarius,XC420844,test,51,0:52,A,creativecommons.org/licenses/by-nc-sa/4.0/,Meena Haribal,United States,2018-06-17
+BHVI,Vireo solitarius,XC391436,test,52,0:57,A,creativecommons.org/licenses/by-nc-nd/4.0/,Peter Boesman,United States,2017-10-19
+BHVI,Vireo solitarius,XC421280,test,53,1:17,B,creativecommons.org/licenses/by-nc-sa/4.0/,GABRIEL LEITE,United States,2018-06-17
+BHVI,Vireo solitarius,XC190059,test,54,2:33,B,creativecommons.org/licenses/by-nc-sa/4.0/,Richard E. Webster,Canada,2014-06-18
+BHVI,Vireo solitarius,XC244574,test,55,1:05,C,creativecommons.org/licenses/by-nc-sa/4.0/,Daniel Parker,United States,2015-05-17
+BHVI,Vireo solitarius,XC389434,test,56,2:22,A,creativecommons.org/licenses/by-nc-sa/4.0/,Martin St-Michel,Canada,2017-05-21
+BHVI,Vireo solitarius,XC628754,test,57,0:31,B,creativecommons.org/licenses/by-nc-sa/4.0/,Scott Gravette,United States,2021-03-13
+BHVI,Vireo solitarius,XC638783,test,58,1:39,B,creativecommons.org/licenses/by-nc-sa/4.0/,Scott Gravette,United States,2021-04-13
+BHVI,Vireo solitarius,XC103273,test,59,0:32,B,creativecommons.org/licenses/by-nc-nd/2.5/,Mike Nelson,United States,2012-06-04
+RBWO,Melanerpes carolinus,XC451917,train,0,0:12,B,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Marvin,United States,2018-08-09
+RBWO,Melanerpes carolinus,XC109900,train,1,0:57,A,creativecommons.org/licenses/by-nc-sa/3.0/,Andrew Spencer,United States,2012-05-18
+RBWO,Melanerpes carolinus,XC370506,train,2,0:45,A,creativecommons.org/licenses/by-nc-sa/4.0/,Eric DeFonso,United States,2017-05-12
+RBWO,Melanerpes carolinus,XC1093541,train,3,0:32,C,creativecommons.org/licenses/by-nc-sa/4.0/,Mario Reyes Jr,United States,2026-04-04
+RBWO,Melanerpes carolinus,XC145837,train,4,0:31,A,creativecommons.org/licenses/by-nc-sa/3.0/,Paul Marvin,United States,2013-08-06
+RBWO,Melanerpes carolinus,XC786552,train,5,0:56,B,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Driver,United States,2023-03-17
+RBWO,Melanerpes carolinus,XC344283,train,6,0:28,A,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Marvin,United States,2016-11-23
+RBWO,Melanerpes carolinus,XC287371,train,7,0:44,C,creativecommons.org/licenses/by-nc-sa/4.0/,Bobby Wilcox,United States,2015-10-23
+RBWO,Melanerpes carolinus,XC390602,train,8,0:08,A,creativecommons.org/licenses/by-nc-sa/4.0/,Martin St-Michel,Canada,2017-05-27
+RBWO,Melanerpes carolinus,XC287460,train,9,0:22,C,creativecommons.org/licenses/by-nc-sa/4.0/,Nick Komar,United States,2015-10-15
+RBWO,Melanerpes carolinus,XC192419,train,10,2:29,B,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Driver,United States,2014-08-24
+RBWO,Melanerpes carolinus,XC599842,train,11,1:17,A,creativecommons.org/licenses/by-nc-sa/4.0/,Christopher McPherson,United States,2019-05-20
+RBWO,Melanerpes carolinus,XC209698,train,12,0:23,B,creativecommons.org/licenses/by-nc-sa/4.0/,Albert @ Max lastukhin,United States,2014-12-29
+RBWO,Melanerpes carolinus,XC311064,train,13,0:15,B,creativecommons.org/licenses/by-nc-sa/4.0/,Antonio Xeira,United States,2016-04-05
+RBWO,Melanerpes carolinus,XC161030,train,14,0:35,C,creativecommons.org/licenses/by-nc-sa/3.0/,Daniel Parker,United States,2010-10-10
+RBWO,Melanerpes carolinus,XC316531,train,15,0:12,C,creativecommons.org/licenses/by-nc-sa/4.0/,Bobby Wilcox,United States,2016-04-22
+RBWO,Melanerpes carolinus,XC145839,train,16,0:08,B,creativecommons.org/licenses/by-nc-sa/3.0/,Paul Marvin,United States,2013-08-06
+RBWO,Melanerpes carolinus,XC698879,train,17,2:19,A,creativecommons.org/licenses/by-nc-sa/4.0/,Valerie Heemstra,United States,2021-12-28
+RBWO,Melanerpes carolinus,XC101321,train,18,0:54,C,creativecommons.org/licenses/by-nc-nd/2.5/,Mike Nelson,United States,2012-05-16
+RBWO,Melanerpes carolinus,XC145836,train,19,3:06,A,creativecommons.org/licenses/by-nc-sa/3.0/,Paul Marvin,United States,2013-06-13
+RBWO,Melanerpes carolinus,XC33616,train,20,1:52,A,creativecommons.org/licenses/by-nc-nd/2.5/,Andrew Spencer,United States,2009-04-26
+RBWO,Melanerpes carolinus,XC624447,train,21,0:10,A,creativecommons.org/licenses/by-nc-sa/4.0/,Bill Grantham,United States,2017-12-30
+RBWO,Melanerpes carolinus,XC425393,train,22,0:07,A,creativecommons.org/licenses/by-nc-sa/4.0/,Bobby Wilcox,United States,2018-07-16
+RBWO,Melanerpes carolinus,XC360970,train,23,0:30,A,creativecommons.org/licenses/by-nc-sa/4.0/,Thomas Magarian,United States,2017-01-15
+RBWO,Melanerpes carolinus,XC129353,train,24,0:21,C,creativecommons.org/licenses/by-nc-sa/3.0/,Albert Lastukhin,United States,2000-10-14
+RBWO,Melanerpes carolinus,XC417981,train,25,0:05,C,creativecommons.org/licenses/by-nc-sa/4.0/,Sue Riffe,United States,2018-05-06
+RBWO,Melanerpes carolinus,XC682566,train,26,0:39,A,creativecommons.org/licenses/by-nc-sa/4.0/,Barry Edmonston,United States,2021-10-18
+RBWO,Melanerpes carolinus,XC1133706,train,27,0:09,A,creativecommons.org/licenses/by-nc-sa/4.0/,Rory Nefdt,United States,2026-04-28
+RBWO,Melanerpes carolinus,XC101320,train,28,1:02,C,creativecommons.org/licenses/by-nc-nd/2.5/,Mike Nelson,United States,2012-05-16
+RBWO,Melanerpes carolinus,XC166111,train,29,1:31,A,creativecommons.org/licenses/by-nc-sa/3.0/,Paul Marvin,United States,2014-01-26
+RBWO,Melanerpes carolinus,XC698876,train,30,4:00,A,creativecommons.org/licenses/by-nc-sa/4.0/,Valerie Heemstra,United States,2021-12-28
+RBWO,Melanerpes carolinus,XC828422,train,31,0:26,B,creativecommons.org/licenses/by-nc-sa/4.0/,Richard E. Webster,United States,2023-05-22
+RBWO,Melanerpes carolinus,XC102885,train,32,0:18,A,creativecommons.org/licenses/by-nc-nd/2.5/,Andrew Spencer,United States,2012-05-16
+RBWO,Melanerpes carolinus,XC578524,train,33,0:31,C,creativecommons.org/licenses/by-nc-sa/4.0/,Sue Riffe,United States,2020-01-10
+RBWO,Melanerpes carolinus,XC366602,train,34,0:07,B,creativecommons.org/licenses/by-nc-sa/4.0/,Antonio Xeira,United States,2015-03-14
+RBWO,Melanerpes carolinus,XC65369,train,35,0:20,C,creativecommons.org/licenses/by-nc-sa/3.0/,Mike Nelson,United States,2010-11-03
+RBWO,Melanerpes carolinus,XC1070646,val,36,3:02,B,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Driver,United States,2026-01-04
+RBWO,Melanerpes carolinus,XC197305,val,37,0:27,A,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Marvin,United States,2014-05-24
+RBWO,Melanerpes carolinus,XC362754,val,38,0:36,B,creativecommons.org/licenses/by-nc-sa/4.0/,Scott Gravette,United States,2017-04-02
+RBWO,Melanerpes carolinus,XC397775,val,39,1:59,A,creativecommons.org/licenses/by-nc-sa/4.0/,Russ Wigh,United States,2018-01-04
+RBWO,Melanerpes carolinus,XC771203,val,40,0:16,B,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Driver,United States,2013-09-14
+RBWO,Melanerpes carolinus,XC154519,val,41,0:10,C,creativecommons.org/licenses/by-nc-sa/3.0/,Daniel Parker,United States,2013-11-16
+RBWO,Melanerpes carolinus,XC940567,val,42,0:22,B,creativecommons.org/licenses/by-nc-sa/4.0/,Sue Riffe,United States,2024-04-13
+RBWO,Melanerpes carolinus,XC311062,val,43,0:10,C,creativecommons.org/licenses/by-nc-sa/4.0/,Antonio Xeira,United States,2016-04-05
+RBWO,Melanerpes carolinus,XC173821,val,44,2:22,A,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Marvin,United States,2014-03-14
+RBWO,Melanerpes carolinus,XC594086,val,45,0:09,B,creativecommons.org/licenses/by-nc-nd/4.0/,Simon Elliott,United States,2017-02-02
+RBWO,Melanerpes carolinus,XC438210,val,46,0:10,C,creativecommons.org/licenses/by-nc-sa/4.0/,Jack Hurd,United States,2018-10-11
+RBWO,Melanerpes carolinus,XC471315,val,47,0:31,A,creativecommons.org/licenses/by-nc-sa/4.0/,William Whitehead,United States,2019-05-07
+RBWO,Melanerpes carolinus,XC225524,test,48,0:35,A,creativecommons.org/licenses/by-nc-nd/4.0/,Peter Boesman,United States,1998-03-20
+RBWO,Melanerpes carolinus,XC839868,test,49,0:25,A,creativecommons.org/licenses/by-nc-nd/4.0/,Manuel Oudard,Canada,2023-05-21
+RBWO,Melanerpes carolinus,XC860378,test,50,1:09,B,creativecommons.org/licenses/by-nc-sa/4.0/,Paul Driver,United States,2024-01-06
+RBWO,Melanerpes carolinus,XC578523,test,51,0:34,A,creativecommons.org/licenses/by-nc-sa/4.0/,Sue Riffe,United States,2020-01-10
+RBWO,Melanerpes carolinus,XC713254,test,52,0:08,A,creativecommons.org/licenses/by-nc-sa/4.0/,Bruce Lagerquist,United States,2022-03-16
+RBWO,Melanerpes carolinus,XC15178,test,53,0:33,A,creativecommons.org/licenses/by-nc-nd/2.5/,Andrew Spencer,United States,2007-05-25
+RBWO,Melanerpes carolinus,XC246336,test,54,0:07,B,creativecommons.org/licenses/by-nc-sa/4.0/,Iain,Canada,2015-05-27
+RBWO,Melanerpes carolinus,XC415927,test,55,1:20,B,creativecommons.org/licenses/by-nc-sa/4.0/,Bobby Wilcox,United States,2018-03-25
+RBWO,Melanerpes carolinus,XC16877,test,56,0:10,B,creativecommons.org/licenses/by-nc-sa/3.0/,Allen T. Chartier,United States,2007-02-07
+RBWO,Melanerpes carolinus,XC153526,test,57,0:09,B,creativecommons.org/licenses/by-nc-sa/3.0/,Mike Schanbacher,United States,2013-11-01
+RBWO,Melanerpes carolinus,XC225523,test,58,0:13,A,creativecommons.org/licenses/by-nc-nd/4.0/,Peter Boesman,United States,1998-03-20
+RBWO,Melanerpes carolinus,XC289722,test,59,0:34,B,creativecommons.org/licenses/by-nc-sa/4.0/,Bram Piot,United States,2015-11-11
